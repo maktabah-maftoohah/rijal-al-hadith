@@ -1,0 +1,115 @@
+{
+  "id": 36,
+  "slug": "kahmas-ibn-al-hasan",
+  "name_ar": "كَهْمَسُ بْنُ الحَسَنِ التَّمِيمِيُّ البَصْرِيُّ",
+  "name_en": "Kahmas ibn al-Hasan al-Tamimi",
+  "name_ms": "Kahmas bin al-Hasan at-Tamimi",
+  "kunya": "أَبُو الحَسَنِ",
+  "nasab": "كهمس بن الحسن التميمي البصري",
+  "laqab": "العَابِدُ القَانِتُ",
+  "nisbah": "التميمي البصري",
+  "generation": {
+    "code": "taba_tabiin",
+    "name_ar": "أتباع التابعين (الطبقة السابعة)",
+    "name_ms": "Pengikut Tabi'in (Tabaqah ke-7)",
+    "name_en": "Followers of Successors (7th Generation)",
+    "ibn_hajar_tabaqah": 7
+  },
+  "birth": {
+    "ah": 85,
+    "ce": 704,
+    "place": "البصرة"
+  },
+  "death": {
+    "ah": 149,
+    "ce": 766,
+    "place": "البصرة"
+  },
+  "places_of_stay": [
+    "البصرة"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "م",
+      "د",
+      "ت",
+      "س",
+      "ق",
+      "ع"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 5648,
+    "tahdhib_al_mizzi": 4980,
+    "shamela_rawi_id": 36,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة ثبت عابد",
+    "grade_ms": "Sangat Terpercaya, Kukuh Hafazan, Ahli Ibadah",
+    "grade_en": "Highest Reliability (Thiqah Thabat)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "الإمام القدوة الثقة العابد",
+    "summary_notes_ar": "أحد عباد البصرة وحفاظها، راوي حديث الإيمان عن عبد الله بن بريدة في صحيح مسلم.",
+    "summary_notes_ms": "Antara ahli ibadah dan penghafal Hadith terkemuka di Basrah; perawi Hadis Jibril daripada Abdullah bin Buraidah dalam Sahih Muslim.",
+    "summary_notes_en": "Basran master of Hadith and worship; transmitter of Hadith 93 in Sahih Muslim."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "يحيى بن معين",
+      "scholar_name_ms": "Yahya bin Ma'in",
+      "scholar_name_en": "Yahya ibn Ma'in",
+      "scholar_death_ah": 233,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Thiqah",
+      "statement_ar": "كَهْمَسُ بْنُ الحَسَنِ ثِقَةٌ مَأْمُونٌ.",
+      "statement_ms": "Kahmas bin al-Hasan adalah seorang yang terpercaya lagi amanah.",
+      "statement_en": "Kahmas ibn al-Hasan is trustworthy and dependable.",
+      "source_book": "Tahdhib al-Kamal",
+      "volume": "24",
+      "page": "244"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 38,
+      "name_ar": "عبد الله بن بريدة",
+      "name_ms": "Abdullah bin Buraidah",
+      "name_en": "Abdullah ibn Buraydah",
+      "reliability_level": 1
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 32,
+      "name_ar": "وكيع بن الجراح",
+      "name_ms": "Waki' bin al-Jarrah",
+      "name_en": "Waki' ibn al-Jarrah",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 34,
+      "sample_hadiths": [
+        93
+      ]
+    }
+  ]
+}

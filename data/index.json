@@ -40,6 +40,438 @@
     }
   },
   {
+    "id": 2,
+    "name_ar": "عُمَرُ بْنُ الخَطَّابِ بْنِ نُفَيْلٍ القُرَشِيُّ العَدَوِيُّ",
+    "name_en": "Umar ibn al-Khattab al-Adawi",
+    "name_ms": "Umar bin al-Khattab al-Adawi",
+    "kunya": "أَبُو حَفْصٍ",
+    "laqab": "أَمِيرُ المُؤْمِنِينَ الفَارُوقُ",
+    "generation": {
+      "code": "sahabi",
+      "name_ar": "صحابي جليل (الخلفاء الراشدون)",
+      "name_ms": "Sahabat Nabi SAW (Khalifah ar-Rasyidin)",
+      "name_en": "Noble Companion (Rightly Guided Caliphs)",
+      "ibn_hajar_tabaqah": 1
+    },
+    "reliability": {
+      "level": 0,
+      "grade_ms": "Sahabat Nabi SAW & Khalifah ar-Rasyidin ('Adil dengan Ijmak)",
+      "grade_ar": "صحابي جليل أمير المؤمنين (عدل بالإجماع)",
+      "color_code": "#0284c7"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name_ar": "أَبُو هُرَيْرَةَ عَبْدُ الرَّحْمَنِ بْنُ صَخْرٍ الدَّوْسِيُّ",
+    "name_en": "Abu Hurayrah Abd al-Rahman ibn Sakhr al-Dawsi",
+    "name_ms": "Abu Hurairah Abdurrahman bin Sakhr ad-Dawsi",
+    "kunya": "أَبُو هُرَيْرَةَ",
+    "laqab": "حَافِظُ الصَّحَابَةِ وَرَاوِيَةُ الإِسْلامِ",
+    "generation": {
+      "code": "sahabi",
+      "name_ar": "صحابي جليل (أحفظ الصحابة)",
+      "name_ms": "Sahabat Nabi SAW (Paling Banyak Menghafal Hadis)",
+      "name_en": "Noble Companion (Foremost Preserver of Hadith)",
+      "ibn_hajar_tabaqah": 1
+    },
+    "reliability": {
+      "level": 0,
+      "grade_ms": "Sahabat Nabi SAW Penghafal Teragung ('Adil dengan Ijmak)",
+      "grade_ar": "صحابي جليل حافظ الأمة (عدل بالإجماع)",
+      "color_code": "#0284c7"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "name_ar": "الحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ بْنِ عِيسَى الأَسَدِيُّ",
+    "name_en": "Al-Humaydi Abdullah ibn al-Zubayr al-Asadi",
+    "name_ms": "Al-Humaidi Abdullah bin al-Zubair al-Asadi",
+    "kunya": "أَبُو بَكْرٍ",
+    "laqab": "إِمَامُ الحَرَمِ وَشَيْخُ البُخَارِيِّ",
+    "generation": {
+      "code": "kibar_atba",
+      "name_ar": "كبار أتباع التابعين (الطبقة العاشرة)",
+      "name_ms": "Generasi Guru al-Bukhari (Tabaqah ke-10)",
+      "name_en": "Senior Followers of Followers (10th Generation)",
+      "ibn_hajar_tabaqah": 10
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya, Penghafal Hadis, Pakar Fiqh, Pengarang Al-Musnad",
+      "grade_ar": "ثقة حافظ فقيه صاحب مسند",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "ت",
+        "س",
+        "ق"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "name_ar": "يَحْيَى بْنُ سَعِيدِ بْنِ قَيْسٍ الأَنْصَارِيُّ",
+    "name_en": "Yahya ibn Sa'id al-Ansari",
+    "name_ms": "Yahya bin Sa'id al-Ansari",
+    "kunya": "أَبُو سَعِيدٍ",
+    "laqab": "قَاضِي المَدِينَةِ وَالعِرَاقِ",
+    "generation": {
+      "code": "wusta_tabiin",
+      "name_ar": "أوساط التابعين (الطبقة الخامسة)",
+      "name_ms": "Pertengahan Tabi'in (Tabaqah ke-5)",
+      "name_en": "Middle Generation of Successors (5th Generation)",
+      "ibn_hajar_tabaqah": 5
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya, Kukuh Hafazan, Imam Pakar Fiqh",
+      "grade_ar": "ثقة ثبت إمام فقيه",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "name_ar": "مُحَمَّدُ بْنُ إِبْرَاهِيمَ بْنِ الحَارِثِ التَّيْمِيُّ",
+    "name_en": "Muhammad ibn Ibrahim al-Taymi",
+    "name_ms": "Muhammad bin Ibrahim at-Taimi",
+    "kunya": "أَبُو عَبْدِ اللَّهِ",
+    "laqab": "فَقِيهُ المَدِينَةِ",
+    "generation": {
+      "code": "sighar_tabiin",
+      "name_ar": "صغار التابعين (الطبقة الرابعة)",
+      "name_ms": "Kecil Tabi'in (Tabaqah ke-4)",
+      "name_en": "Junior Successors (4th Generation)",
+      "ibn_hajar_tabaqah": 4
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya, Teguh Riwayatnya",
+      "grade_ar": "ثقة ثبت له أفراد",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "name_ar": "عَلْقَمَةُ بْنُ وَقَّاصٍ اللَّيْثِيُّ",
+    "name_en": "Alqamah ibn Waqqas al-Laythi",
+    "name_ms": "'Alqamah bin Waqqas al-Laitsi",
+    "kunya": "أَبُو وَقَّاصٍ",
+    "laqab": "عَالِمُ المَدِينَةِ فِي زَمَانِهِ",
+    "generation": {
+      "code": "kibar_tabiin",
+      "name_ar": "كبار التابعين (الطبقة الثالثة)",
+      "name_ms": "Senior Tabi'in (Tabaqah ke-3)",
+      "name_en": "Senior Successors (3rd Generation)",
+      "ibn_hajar_tabaqah": 3
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya, Mulia Periwayatannya",
+      "grade_ar": "ثقة ثبت جليل",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "name_ar": "زُهَيْرُ بْنُ حَرْبِ بْنِ شَدَّادٍ النَّسَائِيُّ (أَبُو خَيْثَمَةَ)",
+    "name_en": "Zuhayr ibn Harb Abu Khaythama",
+    "name_ms": "Zuhair bin Harb (Abu Khaithamah)",
+    "kunya": "أَبُو خَيْثَمَةَ",
+    "laqab": "أَبُو خَيْثَمَةَ شَيْخُ مُسْلِمٍ",
+    "generation": {
+      "code": "kibar_atba",
+      "name_ar": "كبار أتباع التابعين (الطبقة العاشرة)",
+      "name_ms": "Generasi Guru Imam Muslim (Tabaqah ke-10)",
+      "name_en": "Senior Followers of Followers (10th Generation)",
+      "ibn_hajar_tabaqah": 10
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya, Penghafal Hadis, Pengarang Kitab al-'Ilm",
+      "grade_ar": "ثقة ثبت حافظ صاحب كتاب العلم",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "س",
+        "ق"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "name_ar": "وَكِيعُ بْنُ الجَرَّاحِ بْنِ مَلِيحٍ الرُّؤَاسِيُّ",
+    "name_en": "Waki ibn al-Jarrah al-Ruasi",
+    "name_ms": "Waki' bin al-Jarrah ar-Ru'asi",
+    "kunya": "أَبُو سُفْيَانَ",
+    "laqab": "مُحَدِّثُ العِرَاقِ وَشَيْخُ الشَّافِعِيِّ وَأَحْمَدَ",
+    "generation": {
+      "code": "taba_tabiin",
+      "name_ar": "أتباع التابعين (الطبقة التاسعة)",
+      "name_ms": "Pengikut Tabi'in (Tabaqah ke-9)",
+      "name_en": "Followers of Successors (9th Generation)",
+      "ibn_hajar_tabaqah": 9
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya, Penghafal Hadis Ulung, Ahli Ibadah, Imam Hujah",
+      "grade_ar": "ثقة حافظ عابد إمام حجة",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "name_ar": "يَحْيَى بْنُ يَعْمَرَ العَدْوَانِيُّ البَصْرِيُّ",
+    "name_en": "Yahya ibn Yamar al-Adwani",
+    "name_ms": "Yahya bin Ya'mar al-Adwani",
+    "kunya": "أَبُو سُلَيْمَانَ",
+    "laqab": "قَاضِي مَرْوَ وَعَالِمُ العَرَبِيَّةِ",
+    "generation": {
+      "code": "wusta_tabiin",
+      "name_ar": "أوساط التابعين (الطبقة الثالثة)",
+      "name_ms": "Pertengahan Tabi'in (Tabaqah ke-3)",
+      "name_en": "Middle Generation of Successors (3rd Generation)",
+      "ibn_hajar_tabaqah": 3
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya, Pakar Fiqh & Bahasa, Pelopor Baris/Titik Mushaf",
+      "grade_ar": "ثقة فقيه فصيح أول من نقط المصاحف",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "name_ar": "كَهْمَسُ بْنُ الحَسَنِ التَّمِيمِيُّ البَصْرِيُّ",
+    "name_en": "Kahmas ibn al-Hasan al-Tamimi",
+    "name_ms": "Kahmas bin al-Hasan at-Tamimi",
+    "kunya": "أَبُو الحَسَنِ",
+    "laqab": "العَابِدُ القَانِتُ",
+    "generation": {
+      "code": "taba_tabiin",
+      "name_ar": "أتباع التابعين (الطبقة السابعة)",
+      "name_ms": "Pengikut Tabi'in (Tabaqah ke-7)",
+      "name_en": "Followers of Successors (7th Generation)",
+      "ibn_hajar_tabaqah": 7
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya, Kukuh Hafazan, Ahli Ibadah",
+      "grade_ar": "ثقة ثبت عابد",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "name_ar": "عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ بْنِ الحُصَيْبِ الأَسْلَمِيُّ",
+    "name_en": "Abdullah ibn Buraydah al-Aslami",
+    "name_ms": "Abdullah bin Buraidah al-Aslami",
+    "kunya": "أَبُو سَهْلٍ",
+    "laqab": "قَاضِي مَرْوَ",
+    "generation": {
+      "code": "wusta_tabiin",
+      "name_ar": "أوساط التابعين (الطبقة الثالثة)",
+      "name_ms": "Pertengahan Tabi'in (Tabaqah ke-3)",
+      "name_en": "Middle Generation of Successors (3rd Generation)",
+      "ibn_hajar_tabaqah": 3
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya, Hakim Negeri Marw",
+      "grade_ar": "ثقة قاضي مرو",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
     "id": 168,
     "name_ar": "نَافِعٌ أَبُو عَبْدِ اللَّهِ المَدَنِيُّ مَوْلَى ابْنِ عُمَرَ",
     "name_en": "Nafi' Mawla Ibn Umar",
@@ -57,6 +489,46 @@
       "level": 1,
       "grade_ms": "Sangat Terpercaya (Thiqah Thabat)",
       "grade_ar": "ثقة ثبت فقيه مشهور",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 1128,
+    "name_ar": "سُفْيَانُ بْنُ عُيَيْنَةَ بْنِ مَيْمُونٍ الهِلالِيُّ",
+    "name_en": "Sufyan ibn Uyaynah al-Hilali",
+    "name_ms": "Sufyan bin 'Uyaynah al-Hilali",
+    "kunya": "أَبُو مُحَمَّدٍ",
+    "laqab": "إِمَامُ أَهْلِ الحِجَازِ وَمُحَدِّثُ الحَرَمِ",
+    "generation": {
+      "code": "taba_tabiin",
+      "name_ar": "أتبac التابعين (الطبقة الثامنة)",
+      "name_ms": "Pengikut Tabi'in (Tabaqah ke-8)",
+      "name_en": "Followers of Successors (8th Generation)",
+      "ibn_hajar_tabaqah": 8
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya, Penghafal Hadis, Pakar Fiqh, Imam Hujah",
+      "grade_ar": "ثقة حافظ فقيه إمام حجة",
       "color_code": "#15803d"
     },
     "books": {

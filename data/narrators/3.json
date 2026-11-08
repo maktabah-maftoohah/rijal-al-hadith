@@ -1,0 +1,142 @@
+{
+  "id": 3,
+  "slug": "abu-hurayrah",
+  "name_ar": "أَبُو هُرَيْرَةَ عَبْدُ الرَّحْمَنِ بْنُ صَخْرٍ الدَّوْسِيُّ",
+  "name_en": "Abu Hurayrah Abd al-Rahman ibn Sakhr al-Dawsi",
+  "name_ms": "Abu Hurairah Abdurrahman bin Sakhr ad-Dawsi",
+  "kunya": "أَبُو هُرَيْرَةَ",
+  "nasab": "عبد الرحمن بن صخر الدوسي اليماني",
+  "laqab": "حَافِظُ الصَّحَابَةِ وَرَاوِيَةُ الإِسْلامِ",
+  "nisbah": "الدوسي اليماني المدني",
+  "generation": {
+    "code": "sahabi",
+    "name_ar": "صحابي جليل (أحفظ الصحابة)",
+    "name_ms": "Sahabat Nabi SAW (Paling Banyak Menghafal Hadis)",
+    "name_en": "Noble Companion (Foremost Preserver of Hadith)",
+    "ibn_hajar_tabaqah": 1
+  },
+  "birth": {
+    "ah": -19,
+    "ce": 603,
+    "place": "اليمن (بلاد دوس)"
+  },
+  "death": {
+    "ah": 57,
+    "ce": 678,
+    "place": "المدينة المنورة (دفن بالبقيع)"
+  },
+  "places_of_stay": [
+    "اليمن",
+    "المدينة المنورة",
+    "البحرين"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "م",
+      "د",
+      "ت",
+      "س",
+      "ق",
+      "ع"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 8412,
+    "tahdhib_al_mizzi": 7450,
+    "shamela_rawi_id": 3,
+    "al_isabah": 11500
+  },
+  "reliability": {
+    "level": 0,
+    "grade_key": "sahabi",
+    "grade_ar": "صحابي جليل حافظ الأمة (عدل بالإجماع)",
+    "grade_ms": "Sahabat Nabi SAW Penghafal Teragung ('Adil dengan Ijmak)",
+    "grade_en": "Noble Companion Foremost Preserver ('Adil by Consensus)",
+    "color_code": "#0284c7",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "سيد الحفاظ الأثبات راوية الإسلام",
+    "summary_notes_ar": "أكثر الصحابة رواية للحديث على الإطلاق، دعا له رسول الله صلى الله عليه وسلم بالحفظ فلم ينس شيئاً سمعه، عدل مأمون بإجماع المسلمين.",
+    "summary_notes_ms": "Sahabat yang paling banyak meriwayatkan hadis secara mutlak; Nabi SAW mendoakan keteguhan hafazan untuknya sehingga tidak pernah lupa satu pun hadis yang didengarinya.",
+    "summary_notes_en": "The most prolific narrator among all Companions; the Prophet SAW prayed for his memory retention."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "الشافعي",
+      "scholar_name_ms": "Al-Imam asy-Syafi'i",
+      "scholar_name_en": "Al-Imam al-Shafi'i",
+      "scholar_death_ah": 204,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Ahfaz Man Rawa",
+      "statement_ar": "أَبُو هُرَيْرَةَ أَحْفَظُ مَنْ رَوَى الحَدِيثَ فِي دَهْرِهِ.",
+      "statement_ms": "Abu Hurairah adalah orang yang paling kuat hafazannya dalam meriwayatkan hadith pada zamannya.",
+      "statement_en": "Abu Hurairah was the most retentive preserver of Hadith in his era.",
+      "source_book": "Siyar A'lam an-Nubala'",
+      "volume": "2",
+      "page": "608"
+    },
+    {
+      "scholar_name_ar": "البخاري",
+      "scholar_name_ms": "Al-Bukhari",
+      "scholar_name_en": "Al-Bukhari",
+      "scholar_death_ah": 256,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Ruwat Kathirun",
+      "statement_ar": "رَوَى عَنْهُ نَحْوٌ مِنْ ثَمَانِمِائَةِ رَجُلٍ مِنْ أَهْلِ العِلْمِ مِنْ أَصْحَابِ النَّبِيِّ وَالتَّابِعِينَ.",
+      "statement_ms": "Kira-kira lapan ratus orang ahli ilmu daripada kalangan Sahabat dan Tabi'in telah meriwayatkan hadis daripadanya.",
+      "statement_en": "Around eight hundred men of knowledge from the Companions and Successors transmitted from him.",
+      "source_book": "Al-Tarikh al-Kabir",
+      "volume": "9",
+      "page": "12"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 0,
+      "name_ar": "رسول الله محمد صلى الله عليه وسلم",
+      "name_ms": "Rasulullah SAW",
+      "name_en": "Prophet Muhammad (pbuh)",
+      "reliability_level": 0
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 1950,
+      "name_ar": "محمد بن مسلم بن شهاب الزهري",
+      "name_ms": "Ibn Shihab az-Zuhri",
+      "name_en": "Ibn Shihab az-Zuhri",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-al-bukhari",
+      "collection_title": "Sahih al-Bukhari",
+      "narrations_count": 1100,
+      "sample_hadiths": [
+        2,
+        38,
+        56
+      ]
+    },
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 920,
+      "sample_hadiths": [
+        12,
+        45
+      ]
+    }
+  ]
+}

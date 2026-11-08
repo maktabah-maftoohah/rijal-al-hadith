@@ -1,0 +1,148 @@
+{
+  "id": 2,
+  "slug": "umar-ibn-al-khattab",
+  "name_ar": "عُمَرُ بْنُ الخَطَّابِ بْنِ نُفَيْلٍ القُرَشِيُّ العَدَوِيُّ",
+  "name_en": "Umar ibn al-Khattab al-Adawi",
+  "name_ms": "Umar bin al-Khattab al-Adawi",
+  "kunya": "أَبُو حَفْصٍ",
+  "nasab": "عمر بن الخطاب بن نفيل بن عبد العزى بن رياح القرشي العدوي",
+  "laqab": "أَمِيرُ المُؤْمِنِينَ الفَارُوقُ",
+  "nisbah": "القرشي العدوي المدني",
+  "generation": {
+    "code": "sahabi",
+    "name_ar": "صحابي جليل (الخلفاء الراشدون)",
+    "name_ms": "Sahabat Nabi SAW (Khalifah ar-Rasyidin)",
+    "name_en": "Noble Companion (Rightly Guided Caliphs)",
+    "ibn_hajar_tabaqah": 1
+  },
+  "birth": {
+    "ah": -40,
+    "ce": 584,
+    "place": "مكة المكرمة"
+  },
+  "death": {
+    "ah": 23,
+    "ce": 644,
+    "place": "المدينة المنورة (استشهد محراباً)"
+  },
+  "places_of_stay": [
+    "مكة المكرمة",
+    "المدينة المنورة"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "م",
+      "د",
+      "ت",
+      "س",
+      "ق",
+      "ع"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 4908,
+    "tahdhib_al_mizzi": 4350,
+    "shamela_rawi_id": 2,
+    "al_isabah": 5740
+  },
+  "reliability": {
+    "level": 0,
+    "grade_key": "sahabi",
+    "grade_ar": "صحابي جليل أمير المؤمنين (عدل بالإجماع)",
+    "grade_ms": "Sahabat Nabi SAW & Khalifah ar-Rasyidin ('Adil dengan Ijmak)",
+    "grade_en": "Companion & Commander of the Faithful ('Adil by Consensus)",
+    "color_code": "#0284c7",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "الخليفة الراشد أمير المؤمنين الفاروق",
+    "summary_notes_ar": "ثاني الخلفاء الراشدين، الفارق بين الحق والباطل، شهد بدراً والمشاهد كلها، عادل مأمون بإجماع المسلمين.",
+    "summary_notes_ms": "Khalifah ar-Rasyidin kedua, pemisah antara hak dan batil, menyertai Perang Badar dan semua peperangan bersama Rasulullah SAW.",
+    "summary_notes_en": "Second Rightly Guided Caliph, Al-Faruq (The Discriminator of Truth and Falsehood), upright by consensus."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "رسول الله صلى الله عليه وسلم",
+      "scholar_name_ms": "Rasulullah SAW",
+      "scholar_name_en": "Prophet Muhammad (peace be upon him)",
+      "scholar_death_ah": 11,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Muhaddath Mulham",
+      "statement_ar": "إِنَّهُ قَدْ كَانَ فِيمَا مَضَى قَبْلَكُمْ مِنَ الأُمَمِ مُحَدَّثُونَ، وَإِنَّهُ إِنْ كَانَ فِي أُمَّتِي هَذِهِ مِنْهُمْ فَإِنَّهُ عُمَرُ بْنُ الخَطَّابِ.",
+      "statement_ms": "Sesungguhnya pada umat-umat sebelum kalian ada orang-orang yang diberi ilham (muhaddathun); jika ada seorang daripadanya dalam umatku ini, maka dia adalah Umar bin al-Khattab.",
+      "statement_en": "Among the nations before you there were inspired persons; if there is one such among my followers, it is Umar ibn al-Khattab.",
+      "source_book": "Sahih al-Bukhari",
+      "volume": "5",
+      "page": "15"
+    },
+    {
+      "scholar_name_ar": "ابن مسعود",
+      "scholar_name_ms": "Abdullah bin Mas'ud",
+      "scholar_name_en": "Abdullah ibn Mas'ud",
+      "scholar_death_ah": 32,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Sahabi Jalil",
+      "statement_ar": "مَا زِلْنَا أَعِزَّةً مُنْذُ أَسْلَمَ عُمَرُ.",
+      "statement_ms": "Kami sentiasa berada dalam kemuliaan semenjak Umar memeluk Islam.",
+      "statement_en": "We have continuously enjoyed dignity since Umar embraced Islam.",
+      "source_book": "Sahih al-Bukhari",
+      "volume": "5",
+      "page": "16"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 0,
+      "name_ar": "رسول الله محمد صلى الله عليه وسلم",
+      "name_ms": "Rasulullah Muhammad SAW",
+      "name_en": "Prophet Muhammad (peace be upon him)",
+      "reliability_level": 0
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 1,
+      "name_ar": "عبد الله بن عمر بن الخطاب",
+      "name_ms": "Abdullah bin Umar",
+      "name_en": "Abdullah ibn Umar",
+      "reliability_level": 0
+    },
+    {
+      "narrator_id": 16,
+      "name_ar": "علقمة بن وقاص الليثي",
+      "name_ms": "'Alqamah bin Waqqas",
+      "name_en": "'Alqamah ibn Waqqas",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-al-bukhari",
+      "collection_title": "Sahih al-Bukhari",
+      "narrations_count": 537,
+      "sample_hadiths": [
+        1,
+        53,
+        102
+      ]
+    },
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 420,
+      "sample_hadiths": [
+        8,
+        22
+      ]
+    }
+  ]
+}

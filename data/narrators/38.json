@@ -1,0 +1,116 @@
+{
+  "id": 38,
+  "slug": "abdullah-ibn-buraydah",
+  "name_ar": "عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ بْنِ الحُصَيْبِ الأَسْلَمِيُّ",
+  "name_en": "Abdullah ibn Buraydah al-Aslami",
+  "name_ms": "Abdullah bin Buraidah al-Aslami",
+  "kunya": "أَبُو سَهْلٍ",
+  "nasab": "عبد الله بن بريدة بن الحصيب بن عبد الله بن الحارث الأسلمي المروزي",
+  "laqab": "قَاضِي مَرْوَ",
+  "nisbah": "الأسلمي المروزي",
+  "generation": {
+    "code": "wusta_tabiin",
+    "name_ar": "أوساط التابعين (الطبقة الثالثة)",
+    "name_ms": "Pertengahan Tabi'in (Tabaqah ke-3)",
+    "name_en": "Middle Generation of Successors (3rd Generation)",
+    "ibn_hajar_tabaqah": 3
+  },
+  "birth": {
+    "ah": 29,
+    "ce": 650,
+    "place": "البصرة"
+  },
+  "death": {
+    "ah": 115,
+    "ce": 733,
+    "place": "مرو (خراسان)"
+  },
+  "places_of_stay": [
+    "البصرة",
+    "مرو"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "م",
+      "د",
+      "ت",
+      "س",
+      "ق",
+      "ع"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 3244,
+    "tahdhib_al_mizzi": 2910,
+    "shamela_rawi_id": 38,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة قاضي مرو",
+    "grade_ms": "Sangat Terpercaya, Hakim Negeri Marw",
+    "grade_en": "Highest Reliability (Thiqah Thabat)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "الإمام الثقة عالم خراسان",
+    "summary_notes_ar": "قاضي مرو وعالمها، ثقة مأمون باتفاق أهل الحديث، راوي حديث الإيمان عن يحيى بن يعمر في صحيح مسلم.",
+    "summary_notes_ms": "Hakim negeri Marw dan ulama terbesarnya; terpercaya dengan persepakatan ahli hadis.",
+    "summary_notes_en": "Judge of Marw and supreme scholar of Khurasan; trusted link in Sahih Muslim #93."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "أبو حاتم الرازي",
+      "scholar_name_ms": "Abu Hatim ar-Razi",
+      "scholar_name_en": "Abu Hatim al-Razi",
+      "scholar_death_ah": 277,
+      "scholar_approach": "mutashaddid",
+      "verdict_category": "Thiqah",
+      "statement_ar": "عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ ثِقَةٌ صَدُوقٌ.",
+      "statement_ms": "Abdullah bin Buraidah adalah seorang yang terpercaya lagi benar kata-katanya.",
+      "statement_en": "Abdullah ibn Buraydah is trustworthy and truthful.",
+      "source_book": "Al-Jarh wa at-Ta'dil",
+      "volume": "5",
+      "page": "18"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 34,
+      "name_ar": "يحيى بن يعمر",
+      "name_ms": "Yahya bin Ya'mar",
+      "name_en": "Yahya ibn Ya'mar",
+      "reliability_level": 1
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 36,
+      "name_ar": "كهمس بن الحسن",
+      "name_ms": "Kahmas bin al-Hasan",
+      "name_en": "Kahmas ibn al-Hasan",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 68,
+      "sample_hadiths": [
+        93
+      ]
+    }
+  ]
+}

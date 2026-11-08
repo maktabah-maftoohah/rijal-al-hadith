@@ -1,0 +1,127 @@
+{
+  "id": 10,
+  "slug": "al-humaydi-abdullah-ibn-al-zubayr",
+  "name_ar": "الحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ بْنِ عِيسَى الأَسَدِيُّ",
+  "name_en": "Al-Humaydi Abdullah ibn al-Zubayr al-Asadi",
+  "name_ms": "Al-Humaidi Abdullah bin al-Zubair al-Asadi",
+  "kunya": "أَبُو بَكْرٍ",
+  "nasab": "عبد الله بن الزبير بن عيسى بن عبيد الله بن أسامة القرشي الأسدي الحميدي",
+  "laqab": "إِمَامُ الحَرَمِ وَشَيْخُ البُخَارِيِّ",
+  "nisbah": "القرشي الأسدي المكي",
+  "generation": {
+    "code": "kibar_atba",
+    "name_ar": "كبار أتباع التابعين (الطبقة العاشرة)",
+    "name_ms": "Generasi Guru al-Bukhari (Tabaqah ke-10)",
+    "name_en": "Senior Followers of Followers (10th Generation)",
+    "ibn_hajar_tabaqah": 10
+  },
+  "birth": {
+    "ah": 150,
+    "ce": 767,
+    "place": "مكة المكرمة"
+  },
+  "death": {
+    "ah": 219,
+    "ce": 834,
+    "place": "مكة المكرمة"
+  },
+  "places_of_stay": [
+    "مكة المكرمة",
+    "مصر"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "ت",
+      "س",
+      "ق"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 3345,
+    "tahdhib_al_mizzi": 3020,
+    "shamela_rawi_id": 10,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة حافظ فقيه صاحب مسند",
+    "grade_ms": "Sangat Terpercaya, Penghafal Hadis, Pakar Fiqh, Pengarang Al-Musnad",
+    "grade_en": "Highest Reliability (Thiqah Hafiz Faqih)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "الإمام الحافظ الفقيه شيخ الحرم",
+    "summary_notes_ar": "شيخ البخاري الذي افتتح به صحيحه في حديث إنما الأعمال بالنيات، وهو أثبت الناس في ابن عيينة.",
+    "summary_notes_ms": "Guru kepada Imam al-Bukhari yang menjadi pembuka Kitab Sahih al-Bukhari melalui hadis 'Innamal a'malu bin-niyyat', orang paling kukuh mengenai riwayat Ibn 'Uyaynah.",
+    "summary_notes_en": "Teacher of Al-Bukhari with whom he opened his Sahih; the firmest authority on Sufyan ibn 'Uyaynah."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "أحمد بن حنبل",
+      "scholar_name_ms": "Ahmad bin Hanbal",
+      "scholar_name_en": "Ahmad ibn Hanbal",
+      "scholar_death_ah": 241,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Imam Thiqah",
+      "statement_ar": "الحُمَيْدِيُّ عِنْدَنَا إِمَامٌ.",
+      "statement_ms": "Al-Humaidi di sisi kami adalah seorang Imam ikutan.",
+      "statement_en": "Al-Humaydi is in our view an authoritative Imam.",
+      "source_book": "Tahdhib al-Kamal",
+      "volume": "14",
+      "page": "514"
+    },
+    {
+      "scholar_name_ar": "البخاري",
+      "scholar_name_ms": "Al-Bukhari",
+      "scholar_name_en": "Al-Bukhari",
+      "scholar_death_ah": 256,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Imam fi al-Hadith",
+      "statement_ar": "الحُمَيْدِيُّ إِمَامٌ فِي الحَدِيثِ.",
+      "statement_ms": "Al-Humaidi adalah seorang imam dalam ilmu Hadith.",
+      "statement_en": "Al-Humaydi is an Imam in Hadith.",
+      "source_book": "Al-Kashif li-Adh-Dhahabi",
+      "volume": "1",
+      "page": "550"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 1128,
+      "name_ar": "سفيان بن عيينة",
+      "name_ms": "Sufyan bin 'Uyaynah",
+      "name_en": "Sufyan ibn 'Uyaynah",
+      "reliability_level": 1
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 256,
+      "name_ar": "محمد بن إسماعيل البخاري",
+      "name_ms": "Imam al-Bukhari",
+      "name_en": "Muhammad ibn Ismail al-Bukhari",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-al-bukhari",
+      "collection_title": "Sahih al-Bukhari",
+      "narrations_count": 36,
+      "sample_hadiths": [
+        1,
+        48,
+        118
+      ]
+    }
+  ]
+}

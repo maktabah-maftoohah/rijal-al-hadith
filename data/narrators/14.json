@@ -1,0 +1,116 @@
+{
+  "id": 14,
+  "slug": "muhammad-ibn-ibrahim-al-taymi",
+  "name_ar": "مُحَمَّدُ بْنُ إِبْرَاهِيمَ بْنِ الحَارِثِ التَّيْمِيُّ",
+  "name_en": "Muhammad ibn Ibrahim al-Taymi",
+  "name_ms": "Muhammad bin Ibrahim at-Taimi",
+  "kunya": "أَبُو عَبْدِ اللَّهِ",
+  "nasab": "محمد بن إبراهيم بن الحارث بن خالد بن صخر القرشي التيمي",
+  "laqab": "فَقِيهُ المَدِينَةِ",
+  "nisbah": "القرشي التيمي المدني",
+  "generation": {
+    "code": "sighar_tabiin",
+    "name_ar": "صغار التابعين (الطبقة الرابعة)",
+    "name_ms": "Kecil Tabi'in (Tabaqah ke-4)",
+    "name_en": "Junior Successors (4th Generation)",
+    "ibn_hajar_tabaqah": 4
+  },
+  "birth": {
+    "ah": 60,
+    "ce": 680,
+    "place": "المدينة المنورة"
+  },
+  "death": {
+    "ah": 120,
+    "ce": 738,
+    "place": "المدينة المنورة"
+  },
+  "places_of_stay": [
+    "المدينة المنورة"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "م",
+      "د",
+      "ت",
+      "س",
+      "ق",
+      "ع"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 5709,
+    "tahdhib_al_mizzi": 5050,
+    "shamela_rawi_id": 14,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة ثبت له أفراد",
+    "grade_ms": "Sangat Terpercaya, Teguh Riwayatnya",
+    "grade_en": "Highest Reliability (Thiqah Thabat)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "الإمام الثقة عالم المدينة",
+    "summary_notes_ar": "أحد علماء المدينة الثقات، تفرد برواية حديث النيات عن علقمة بن وقاص الليثي.",
+    "summary_notes_ms": "Salah seorang ulama Madinah yang terpercaya; beliau satu-satunya perawi yang meriwayatkan hadis Niat daripada 'Alqamah bin Waqqas al-Laitsi.",
+    "summary_notes_en": "Esteemed Medinan jurist who exclusively received Hadith 1 from 'Alqamah ibn Waqqas."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "يحيى بن معين",
+      "scholar_name_ms": "Yahya bin Ma'in",
+      "scholar_name_en": "Yahya ibn Ma'in",
+      "scholar_death_ah": 233,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Thiqah",
+      "statement_ar": "مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ ثِقَةٌ.",
+      "statement_ms": "Muhammad bin Ibrahim at-Taimi adalah seorang yang terpercaya.",
+      "statement_en": "Muhammad ibn Ibrahim al-Taymi is trustworthy.",
+      "source_book": "Tahdhib al-Kamal",
+      "volume": "24",
+      "page": "304"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 16,
+      "name_ar": "علقمة بن وقاص الليثي",
+      "name_ms": "'Alqamah bin Waqqas",
+      "name_en": "'Alqamah ibn Waqqas",
+      "reliability_level": 1
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 12,
+      "name_ar": "يحيى بن سعيد الأنصاري",
+      "name_ms": "Yahya bin Sa'id al-Ansari",
+      "name_en": "Yahya ibn Sa'id al-Ansari",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-al-bukhari",
+      "collection_title": "Sahih al-Bukhari",
+      "narrations_count": 88,
+      "sample_hadiths": [
+        1,
+        28
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": 32,
+  "slug": "waki-ibn-al-jarrah",
+  "name_ar": "وَكِيعُ بْنُ الجَرَّاحِ بْنِ مَلِيحٍ الرُّؤَاسِيُّ",
+  "name_en": "Waki ibn al-Jarrah al-Ruasi",
+  "name_ms": "Waki' bin al-Jarrah ar-Ru'asi",
+  "kunya": "أَبُو سُفْيَانَ",
+  "nasab": "وكيع بن الجراح بن مليح بن عدي الرؤاسي الكوفي",
+  "laqab": "مُحَدِّثُ العِرَاقِ وَشَيْخُ الشَّافِعِيِّ وَأَحْمَدَ",
+  "nisbah": "الرؤاسي الكوفي",
+  "generation": {
+    "code": "taba_tabiin",
+    "name_ar": "أتباع التابعين (الطبقة التاسعة)",
+    "name_ms": "Pengikut Tabi'in (Tabaqah ke-9)",
+    "name_en": "Followers of Successors (9th Generation)",
+    "ibn_hajar_tabaqah": 9
+  },
+  "birth": {
+    "ah": 129,
+    "ce": 746,
+    "place": "الكوفة"
+  },
+  "death": {
+    "ah": 197,
+    "ce": 812,
+    "place": "فيد (طريق مكة)"
+  },
+  "places_of_stay": [
+    "الكوفة",
+    "مكة المكرمة"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "م",
+      "د",
+      "ت",
+      "س",
+      "ق",
+      "ع"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 7414,
+    "tahdhib_al_mizzi": 6650,
+    "shamela_rawi_id": 32,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة حافظ عابد إمام حجة",
+    "grade_ms": "Sangat Terpercaya, Penghafal Hadis Ulung, Ahli Ibadah, Imam Hujah",
+    "grade_en": "Highest Reliability (Thiqah Hafiz 'Abid Hujjah)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "أحد أئمة الأعلام وشيخ المحدثين",
+    "summary_notes_ar": "أحد أساطين الحفظ والورع، شيخ الإمامين أحمد والشافعي، وراوي حديث الإيمان في صحيح مسلم.",
+    "summary_notes_ms": "Salah satu tonggak utama hafazan dan kewarakan; guru kepada Imam Ahmad dan asy-Syafi'i, perawi kedua Hadis Jibril dalam Sahih Muslim.",
+    "summary_notes_en": "Pinnacle of Hadith mastery and piety; teacher of Imams Ahmad and al-Shafi'i."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "أحمد بن حنبل",
+      "scholar_name_ms": "Ahmad bin Hanbal",
+      "scholar_name_en": "Ahmad ibn Hanbal",
+      "scholar_death_ah": 241,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Ma Ra'aytu Mithlahu",
+      "statement_ar": "مَا رَأَيْتُ أَحَداً أَوْعَى لِلْعِلْمِ وَلا أَحْفَظَ مِنْ وَكِيعٍ.",
+      "statement_ms": "Aku tidak pernah melihat sesiapapun yang lebih luas ilmunya dan lebih teguh hafazannya daripada Waki'.",
+      "statement_en": "I have not seen anyone with broader comprehension or stronger retention than Waki'.",
+      "source_book": "Tahdhib al-Kamal",
+      "volume": "30",
+      "page": "470"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 36,
+      "name_ar": "كهمس بن الحسن",
+      "name_ms": "Kahmas bin al-Hasan",
+      "name_en": "Kahmas ibn al-Hasan",
+      "reliability_level": 1
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 30,
+      "name_ar": "زهير بن حرب أبو خيثمة",
+      "name_ms": "Zuhair bin Harb",
+      "name_en": "Zuhayr ibn Harb",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 520,
+      "sample_hadiths": [
+        93,
+        140
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": 16,
+  "slug": "alqamah-ibn-waqqas-al-laythi",
+  "name_ar": "عَلْقَمَةُ بْنُ وَقَّاصٍ اللَّيْثِيُّ",
+  "name_en": "Alqamah ibn Waqqas al-Laythi",
+  "name_ms": "'Alqamah bin Waqqas al-Laitsi",
+  "kunya": "أَبُو وَقَّاصٍ",
+  "nasab": "علقمة بن وقاص بن محصن بن كلدة الليثي الكناني",
+  "laqab": "عَالِمُ المَدِينَةِ فِي زَمَانِهِ",
+  "nisbah": "الليثي الكناني المدني",
+  "generation": {
+    "code": "kibar_tabiin",
+    "name_ar": "كبار التابعين (الطبقة الثالثة)",
+    "name_ms": "Senior Tabi'in (Tabaqah ke-3)",
+    "name_en": "Senior Successors (3rd Generation)",
+    "ibn_hajar_tabaqah": 3
+  },
+  "birth": {
+    "ah": 15,
+    "ce": 636,
+    "place": "المدينة المنورة"
+  },
+  "death": {
+    "ah": 80,
+    "ce": 699,
+    "place": "المدينة المنورة"
+  },
+  "places_of_stay": [
+    "المدينة المنورة"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "م",
+      "د",
+      "ت",
+      "س",
+      "ق",
+      "ع"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 4690,
+    "tahdhib_al_mizzi": 4120,
+    "shamela_rawi_id": 16,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة ثبت جليل",
+    "grade_ms": "Sangat Terpercaya, Mulia Periwayatannya",
+    "grade_en": "Highest Reliability (Thiqah Thabat)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "الإمام الثقة الجليل",
+    "summary_notes_ar": "من كبار التابعين وفقهائهم، سمع عمر بن الخطاب على المنبر بحديث النيات ولم يروه عن عمر غيره.",
+    "summary_notes_ms": "Antara tokoh kanan Tabi'in; mendengar langsung daripada Umar bin al-Khattab di atas mimbar mengenai hadis Niat dan tiada orang lain yang meriwayatkannya daripada Umar selain beliau.",
+    "summary_notes_en": "Foremost Senior Successor who heard Umar ibn al-Khattab directly deliver Hadith 1 from the pulpit."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "ابن سعد",
+      "scholar_name_ms": "Ibn Sa'd",
+      "scholar_name_en": "Ibn Sa'd",
+      "scholar_death_ah": 230,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Thiqah",
+      "statement_ar": "كَانَ ثِقَةً وَلَهُ أَحَادِيثُ صَالِحَةٌ.",
+      "statement_ms": "Beliau adalah seorang yang terpercaya dan memiliki hadis-hadis yang sahih dan baik.",
+      "statement_en": "He was trustworthy and possessed sound hadiths.",
+      "source_book": "Al-Tabaqat al-Kubra",
+      "volume": "5",
+      "page": "128"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 2,
+      "name_ar": "عمر بن الخطاب",
+      "name_ms": "Umar bin al-Khattab",
+      "name_en": "Umar ibn al-Khattab",
+      "reliability_level": 0
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 14,
+      "name_ar": "محمد بن إبراهيم التيمي",
+      "name_ms": "Muhammad bin Ibrahim at-Taimi",
+      "name_en": "Muhammad ibn Ibrahim at-Taymi",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-al-bukhari",
+      "collection_title": "Sahih al-Bukhari",
+      "narrations_count": 22,
+      "sample_hadiths": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": 34,
+  "slug": "yahya-ibn-yamar",
+  "name_ar": "يَحْيَى بْنُ يَعْمَرَ العَدْوَانِيُّ البَصْرِيُّ",
+  "name_en": "Yahya ibn Yamar al-Adwani",
+  "name_ms": "Yahya bin Ya'mar al-Adwani",
+  "kunya": "أَبُو سُلَيْمَانَ",
+  "nasab": "يحيى بن يعمر العدواني البصري ثم المروزي",
+  "laqab": "قَاضِي مَرْوَ وَعَالِمُ العَرَبِيَّةِ",
+  "nisbah": "العدواني البصري المروزي",
+  "generation": {
+    "code": "wusta_tabiin",
+    "name_ar": "أوساط التابعين (الطبقة الثالثة)",
+    "name_ms": "Pertengahan Tabi'in (Tabaqah ke-3)",
+    "name_en": "Middle Generation of Successors (3rd Generation)",
+    "ibn_hajar_tabaqah": 3
+  },
+  "birth": {
+    "ah": 35,
+    "ce": 656,
+    "place": "البصرة"
+  },
+  "death": {
+    "ah": 129,
+    "ce": 746,
+    "place": "مرو (خراسان)"
+  },
+  "places_of_stay": [
+    "البصرة",
+    "مرو"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "م",
+      "د",
+      "ت",
+      "س",
+      "ق",
+      "ع"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 7673,
+    "tahdhib_al_mizzi": 6900,
+    "shamela_rawi_id": 34,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة فقيه فصيح أول من نقط المصاحف",
+    "grade_ms": "Sangat Terpercaya, Pakar Fiqh & Bahasa, Pelopor Baris/Titik Mushaf",
+    "grade_en": "Highest Reliability (Thiqah Faqih)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "العلامة قاضي مرو وأحد الفصحاء",
+    "summary_notes_ar": "أحد كبار أئمة التابعين بالبصرة وخراسان، هو الذي سأل ابن عمر عن مسألة القدر فحدثه ابن عمر بحديث جبريل المشهور.",
+    "summary_notes_ms": "Antara tokoh agung Tabi'in di Basrah; beliaulah yang bertanya kepada Ibn 'Umar mengenai kemunculan fahaman Qadariyyah sehingga Ibn 'Umar menyampaikan Hadis Jibril.",
+    "summary_notes_en": "Distinguished Successor who approached Ibn Umar regarding Qadariyyah beliefs, occasioning the narration of Hadith Jibril."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "ابن حجر العسقلاني",
+      "scholar_name_ms": "Ibn Hajar al-'Asqalani",
+      "scholar_name_en": "Ibn Hajar al-'Asqalani",
+      "scholar_death_ah": 852,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Thiqah Alim",
+      "statement_ar": "ثقة عالم أديب، يقال إنه أول من نقط المصحف الشريف.",
+      "statement_ms": "Seorang yang terpercaya, berilmu luas, sasterawan, dan dikatakan dialah orang pertama yang meletakkan titik huruf pada Mushaf Al-Quran.",
+      "statement_en": "Trustworthy scholar of high literary distinction; noted as pioneer of Quranic dotting.",
+      "source_book": "Taqrib al-Tahdhib",
+      "volume": "1",
+      "page": "598"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 1,
+      "name_ar": "عبد الله بن عمر بن الخطاب",
+      "name_ms": "Abdullah bin Umar",
+      "name_en": "Abdullah ibn Umar",
+      "reliability_level": 0
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 38,
+      "name_ar": "عبد الله بن بريدة",
+      "name_ms": "Abdullah bin Buraidah",
+      "name_en": "Abdullah ibn Buraydah",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 18,
+      "sample_hadiths": [
+        93
+      ]
+    }
+  ]
+}

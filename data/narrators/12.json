@@ -1,0 +1,119 @@
+{
+  "id": 12,
+  "slug": "yahya-ibn-said-al-ansari",
+  "name_ar": "يَحْيَى بْنُ سَعِيدِ بْنِ قَيْسٍ الأَنْصَارِيُّ",
+  "name_en": "Yahya ibn Sa'id al-Ansari",
+  "name_ms": "Yahya bin Sa'id al-Ansari",
+  "kunya": "أَبُو سَعِيدٍ",
+  "nasab": "يحيى بن سعيد بن قيس بن عمرو بن سهل بن ثعلبة النجاري الأنصari",
+  "laqab": "قَاضِي المَدِينَةِ وَالعِرَاقِ",
+  "nisbah": "الأنصاري النجاري المدني",
+  "generation": {
+    "code": "wusta_tabiin",
+    "name_ar": "أوساط التابعين (الطبقة الخامسة)",
+    "name_ms": "Pertengahan Tabi'in (Tabaqah ke-5)",
+    "name_en": "Middle Generation of Successors (5th Generation)",
+    "ibn_hajar_tabaqah": 5
+  },
+  "birth": {
+    "ah": 70,
+    "ce": 690,
+    "place": "المدينة المنورة"
+  },
+  "death": {
+    "ah": 143,
+    "ce": 760,
+    "place": "الهاشمية (العراق)"
+  },
+  "places_of_stay": [
+    "المدينة المنورة",
+    "الكوفة",
+    "بغداد"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "م",
+      "د",
+      "ت",
+      "س",
+      "ق",
+      "ع"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 7578,
+    "tahdhib_al_mizzi": 6800,
+    "shamela_rawi_id": 12,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة ثبت إمام فقيه",
+    "grade_ms": "Sangat Terpercaya, Kukuh Hafazan, Imam Pakar Fiqh",
+    "grade_en": "Highest Reliability (Thiqah Thabat Faqih)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "الإمام الحجة القاضي عالم المدينة",
+    "summary_notes_ar": "أحد أئمة التابعين الكبار، اشتهر بحديث النيات عن محمد بن إبراهيم التيمي، وعنه انتشر في الآفاق برواية أكثر من مائتي راوٍ عنه.",
+    "summary_notes_ms": "Salah seorang imam besar Tabi'in; masyhur dengan hadis Niat daripada Muhammad bin Ibrahim at-Taimi yang kemudian tersebar ke seluruh pelusuk dunia melalui lebih 200 perawi daripadanya.",
+    "summary_notes_en": "Master Successor; through him Hadith 1 ('Actions are by Intentions') radiated to hundreds of transmitters across the Muslim world."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "أحمد بن حنبل",
+      "scholar_name_ms": "Ahmad bin Hanbal",
+      "scholar_name_en": "Ahmad ibn Hanbal",
+      "scholar_death_ah": 241,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Athbat an-Nas",
+      "statement_ar": "يَحْيَى بْنُ سَعِيدٍ الأَنْصَارِيُّ أَثْبَتُ النَّاسِ.",
+      "statement_ms": "Yahya bin Sa'id al-Ansari adalah orang yang paling kukuh riwayatnya.",
+      "statement_en": "Yahya ibn Sa'id al-Ansari is the firmest of people.",
+      "source_book": "Tahdhib al-Kamal",
+      "volume": "31",
+      "page": "350"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 14,
+      "name_ar": "محمد بن إبراهيم التيمي",
+      "name_ms": "Muhammad bin Ibrahim at-Taimi",
+      "name_en": "Muhammad ibn Ibrahim at-Taymi",
+      "reliability_level": 1
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 1128,
+      "name_ar": "سفيان بن عيينة",
+      "name_ms": "Sufyan bin 'Uyaynah",
+      "name_en": "Sufyan ibn 'Uyaynah",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-al-bukhari",
+      "collection_title": "Sahih al-Bukhari",
+      "narrations_count": 315,
+      "sample_hadiths": [
+        1,
+        14,
+        82
+      ]
+    }
+  ]
+}

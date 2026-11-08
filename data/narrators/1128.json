@@ -1,0 +1,141 @@
+{
+  "id": 1128,
+  "slug": "sufyan-ibn-uyaynah",
+  "name_ar": "سُفْيَانُ بْنُ عُيَيْنَةَ بْنِ مَيْمُونٍ الهِلالِيُّ",
+  "name_en": "Sufyan ibn Uyaynah al-Hilali",
+  "name_ms": "Sufyan bin 'Uyaynah al-Hilali",
+  "kunya": "أَبُو مُحَمَّدٍ",
+  "nasab": "سفيان بن عيينة بن أبي عمران ميمون الهلالي الكوفي ثم المكي",
+  "laqab": "إِمَامُ أَهْلِ الحِجَازِ وَمُحَدِّثُ الحَرَمِ",
+  "nisbah": "الهلالي الكوفي المكي",
+  "generation": {
+    "code": "taba_tabiin",
+    "name_ar": "أتبac التابعين (الطبقة الثامنة)",
+    "name_ms": "Pengikut Tabi'in (Tabaqah ke-8)",
+    "name_en": "Followers of Successors (8th Generation)",
+    "ibn_hajar_tabaqah": 8
+  },
+  "birth": {
+    "ah": 107,
+    "ce": 725,
+    "place": "الكوفة"
+  },
+  "death": {
+    "ah": 198,
+    "ce": 814,
+    "place": "مكة المكرمة (دفن بالحجون)"
+  },
+  "places_of_stay": [
+    "الكوفة",
+    "مكة المكرمة"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "م",
+      "د",
+      "ت",
+      "س",
+      "ق",
+      "ع"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 2451,
+    "tahdhib_al_mizzi": 2280,
+    "shamela_rawi_id": 1128,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة حافظ فقيه إمام حجة",
+    "grade_ms": "Sangat Terpercaya, Penghafal Hadis, Pakar Fiqh, Imam Hujah",
+    "grade_en": "Highest Reliability (Thiqah Hafiz Faqih Hujjah)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "أحد الأعلام وشيخ الإسلام",
+    "summary_notes_ar": "أحد أئمة الإسلام الكبار، حجة ثبت حافظ متقن، واسطة العقد في إسناد الحديث الأول في صحيح البخاري.",
+    "summary_notes_ms": "Salah seorang imam besar Islam, hujah yang teguh hafazan dan cermat, perawi kedua dalam sanad Hadith pertama Sahih al-Bukhari.",
+    "summary_notes_en": "Pinnacle of Islamic scholarship, exceptionally precise and firm, the central link in Hadith 1 of Sahih al-Bukhari."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "الشافعي",
+      "scholar_name_ms": "Al-Imam asy-Syafi'i",
+      "scholar_name_en": "Al-Imam al-Shafi'i",
+      "scholar_death_ah": 204,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Qutb al-'Ilm",
+      "statement_ar": "لَوْلا مَالِكٌ وَسُفْيَانُ بْنُ عُيَيْنَةَ لَذَهَبَ عِلْمُ الحِجَازِ.",
+      "statement_ms": "Sekiranya bukan kerana Malik dan Sufyan bin 'Uyaynah, nescaya akan hilanglah ilmu bumi Hijaz.",
+      "statement_en": "Had it not been for Malik and Sufyan ibn 'Uyaynah, the knowledge of Hijaz would have perished.",
+      "source_book": "Tahdhib al-Kamal",
+      "volume": "11",
+      "page": "180"
+    },
+    {
+      "scholar_name_ar": "يحيى بن معين",
+      "scholar_name_ms": "Yahya bin Ma'in",
+      "scholar_name_en": "Yahya ibn Ma'in",
+      "scholar_death_ah": 233,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Athbat an-Nas",
+      "statement_ar": "سُفْيَانُ بْنُ عُيَيْنَةَ أَثْبَتُ النَّاسِ فِي عَمْرِو بْنِ دِينَارٍ وَالزُّهْرِيِّ.",
+      "statement_ms": "Sufyan bin 'Uyaynah adalah orang paling kukuh periwayatannya mengenai 'Amr bin Dinar dan Az-Zuhri.",
+      "statement_en": "Sufyan ibn 'Uyaynah is the firmest of all people in narrating from 'Amr ibn Dinar and Az-Zuhri.",
+      "source_book": "Al-Jarh wa at-Ta'dil",
+      "volume": "4",
+      "page": "225"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 12,
+      "name_ar": "يحيى بن سعيد الأنصاري",
+      "name_ms": "Yahya bin Sa'id al-Ansari",
+      "name_en": "Yahya ibn Sa'id al-Ansari",
+      "reliability_level": 1
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 10,
+      "name_ar": "الحميدي عبد الله بن الزبير",
+      "name_ms": "Al-Humaidi",
+      "name_en": "Al-Humaydi",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-al-bukhari",
+      "collection_title": "Sahih al-Bukhari",
+      "narrations_count": 490,
+      "sample_hadiths": [
+        1,
+        7,
+        33
+      ]
+    },
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 395,
+      "sample_hadiths": [
+        15,
+        48
+      ]
+    }
+  ]
+}

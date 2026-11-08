@@ -1,0 +1,114 @@
+{
+  "id": 30,
+  "slug": "zuhayr-ibn-harb",
+  "name_ar": "زُهَيْرُ بْنُ حَرْبِ بْنِ شَدَّادٍ النَّسَائِيُّ (أَبُو خَيْثَمَةَ)",
+  "name_en": "Zuhayr ibn Harb Abu Khaythama",
+  "name_ms": "Zuhair bin Harb (Abu Khaithamah)",
+  "kunya": "أَبُو خَيْثَمَةَ",
+  "nasab": "زهير بن حرب بن شداد الحرشي النسائي ثم البغدادي",
+  "laqab": "أَبُو خَيْثَمَةَ شَيْخُ مُسْلِمٍ",
+  "nisbah": "الحرشي النسائي البغدادي",
+  "generation": {
+    "code": "kibar_atba",
+    "name_ar": "كبار أتباع التابعين (الطبقة العاشرة)",
+    "name_ms": "Generasi Guru Imam Muslim (Tabaqah ke-10)",
+    "name_en": "Senior Followers of Followers (10th Generation)",
+    "ibn_hajar_tabaqah": 10
+  },
+  "birth": {
+    "ah": 160,
+    "ce": 776,
+    "place": "نسا (خراسان)"
+  },
+  "death": {
+    "ah": 234,
+    "ce": 849,
+    "place": "بغداد"
+  },
+  "places_of_stay": [
+    "خراسان",
+    "بغداد"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": [
+      "خ",
+      "م",
+      "د",
+      "س",
+      "ق"
+    ],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 2041,
+    "tahdhib_al_mizzi": 1950,
+    "shamela_rawi_id": 30,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة ثبت حافظ صاحب كتاب العلم",
+    "grade_ms": "Sangat Terpercaya, Penghafal Hadis, Pengarang Kitab al-'Ilm",
+    "grade_en": "Highest Reliability (Thiqah Thabat Hafiz)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "الحافظ الكبير الحجة شيخ بغداد",
+    "summary_notes_ar": "شيخ الإمام مسلم، افتتح به صحيحه في كتاب الإيمان في حديث جبريل المشهور، وهو من كبار الحفاظ المتقنين.",
+    "summary_notes_ms": "Guru kepada Imam Muslim yang menjadi pembuka Sahih Muslim dalam Kitab al-Iman (Hadis Jibril AS).",
+    "summary_notes_en": "Master Hafiz of Baghdad and premier teacher of Imam Muslim who opened Sahih Muslim with him."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "يحيى بن معين",
+      "scholar_name_ms": "Yahya bin Ma'in",
+      "scholar_name_en": "Yahya ibn Ma'in",
+      "scholar_death_ah": 233,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Thiqah",
+      "statement_ar": "زُهَيْرُ بْنُ حَرْبٍ ثِقَةٌ مَأْمُونٌ.",
+      "statement_ms": "Zuhair bin Harb adalah seorang yang terpercaya lagi amanah.",
+      "statement_en": "Zuhayr ibn Harb is trustworthy and dependable.",
+      "source_book": "Tahdhib al-Kamal",
+      "volume": "9",
+      "page": "402"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 32,
+      "name_ar": "وكيع بن الجراح",
+      "name_ms": "Waki' bin al-Jarrah",
+      "name_en": "Waki' ibn al-Jarrah",
+      "reliability_level": 1
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 261,
+      "name_ar": "مسلم بن الحجاج النيسابوري",
+      "name_ms": "Imam Muslim",
+      "name_en": "Muslim ibn al-Hajjaj",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 1280,
+      "sample_hadiths": [
+        93,
+        114
+      ]
+    }
+  ]
+}
