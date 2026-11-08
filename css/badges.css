@@ -1,0 +1,195 @@
+/* ==========================================================================
+   Maktabah Maftoohah — 7-Tier Reliability Badges & Rumuz al-Kutub System
+   Repo: rijal-al-hadith
+   Encoding: UTF-8 without BOM
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   7-Tier Reliability Status Badges
+   0: Sahabi
+   1: Thiqah Thabat / Imam
+   2: Thiqah / Saduq
+   3: Maqbool / Layyin
+   4: Majhul
+   5: Da'if
+   6: Matruk / Kadhdhab
+   -------------------------------------------------------------------------- */
+
+.rawi-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.2rem 0.65rem;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.2;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.rawi-badge .badge-icon {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Light Theme Variables & Badges */
+.rawi-badge.tier-0, .rawi-token.tier-0 {
+  background: rgba(2, 132, 199, 0.12);
+  color: #0284c7;
+  border: 1px solid rgba(2, 132, 199, 0.3);
+}
+.rawi-badge.tier-0 .badge-icon, .rawi-dot.tier-0 { background-color: #0284c7; }
+
+.rawi-badge.tier-1, .rawi-token.tier-1 {
+  background: rgba(21, 128, 61, 0.12);
+  color: #15803d;
+  border: 1px solid rgba(21, 128, 61, 0.3);
+}
+.rawi-badge.tier-1 .badge-icon, .rawi-dot.tier-1 { background-color: #15803d; }
+
+.rawi-badge.tier-2, .rawi-token.tier-2 {
+  background: rgba(5, 150, 105, 0.12);
+  color: #059669;
+  border: 1px solid rgba(5, 150, 105, 0.3);
+}
+.rawi-badge.tier-2 .badge-icon, .rawi-dot.tier-2 { background-color: #059669; }
+
+.rawi-badge.tier-3, .rawi-token.tier-3 {
+  background: rgba(217, 119, 6, 0.12);
+  color: #d97706;
+  border: 1px solid rgba(217, 119, 6, 0.3);
+}
+.rawi-badge.tier-3 .badge-icon, .rawi-dot.tier-3 { background-color: #d97706; }
+
+.rawi-badge.tier-4, .rawi-token.tier-4 {
+  background: rgba(100, 116, 139, 0.12);
+  color: #64748b;
+  border: 1px solid rgba(100, 116, 139, 0.3);
+}
+.rawi-badge.tier-4 .badge-icon, .rawi-dot.tier-4 { background-color: #64748b; }
+
+.rawi-badge.tier-5, .rawi-token.tier-5 {
+  background: rgba(234, 88, 12, 0.12);
+  color: #ea580c;
+  border: 1px solid rgba(234, 88, 12, 0.3);
+}
+.rawi-badge.tier-5 .badge-icon, .rawi-dot.tier-5 { background-color: #ea580c; }
+
+.rawi-badge.tier-6, .rawi-token.tier-6 {
+  background: rgba(220, 38, 38, 0.12);
+  color: #dc2626;
+  border: 1px solid rgba(220, 38, 38, 0.3);
+}
+.rawi-badge.tier-6 .badge-icon, .rawi-dot.tier-6 { background-color: #dc2626; }
+
+/* Dark Theme Overrides */
+[data-theme="dark"] .rawi-badge.tier-0, [data-theme="dark"] .rawi-token.tier-0 {
+  background: rgba(56, 189, 248, 0.15);
+  color: #38bdf8;
+  border-color: rgba(56, 189, 248, 0.4);
+}
+[data-theme="dark"] .rawi-badge.tier-0 .badge-icon, [data-theme="dark"] .rawi-dot.tier-0 { background-color: #38bdf8; }
+
+[data-theme="dark"] .rawi-badge.tier-1, [data-theme="dark"] .rawi-token.tier-1 {
+  background: rgba(74, 222, 128, 0.15);
+  color: #4ade80;
+  border-color: rgba(74, 222, 128, 0.4);
+}
+[data-theme="dark"] .rawi-badge.tier-1 .badge-icon, [data-theme="dark"] .rawi-dot.tier-1 { background-color: #4ade80; }
+
+[data-theme="dark"] .rawi-badge.tier-2, [data-theme="dark"] .rawi-token.tier-2 {
+  background: rgba(52, 211, 153, 0.15);
+  color: #34d399;
+  border-color: rgba(52, 211, 153, 0.4);
+}
+[data-theme="dark"] .rawi-badge.tier-2 .badge-icon, [data-theme="dark"] .rawi-dot.tier-2 { background-color: #34d399; }
+
+[data-theme="dark"] .rawi-badge.tier-3, [data-theme="dark"] .rawi-token.tier-3 {
+  background: rgba(251, 191, 36, 0.15);
+  color: #fbbf24;
+  border-color: rgba(251, 191, 36, 0.4);
+}
+[data-theme="dark"] .rawi-badge.tier-3 .badge-icon, [data-theme="dark"] .rawi-dot.tier-3 { background-color: #fbbf24; }
+
+[data-theme="dark"] .rawi-badge.tier-4, [data-theme="dark"] .rawi-token.tier-4 {
+  background: rgba(148, 163, 184, 0.15);
+  color: #94a3b8;
+  border-color: rgba(148, 163, 184, 0.4);
+}
+[data-theme="dark"] .rawi-badge.tier-4 .badge-icon, [data-theme="dark"] .rawi-dot.tier-4 { background-color: #94a3b8; }
+
+[data-theme="dark"] .rawi-badge.tier-5, [data-theme="dark"] .rawi-token.tier-5 {
+  background: rgba(251, 146, 60, 0.15);
+  color: #fb923c;
+  border-color: rgba(251, 146, 60, 0.4);
+}
+[data-theme="dark"] .rawi-badge.tier-5 .badge-icon, [data-theme="dark"] .rawi-dot.tier-5 { background-color: #fb923c; }
+
+[data-theme="dark"] .rawi-badge.tier-6, [data-theme="dark"] .rawi-token.tier-6 {
+  background: rgba(248, 113, 113, 0.15);
+  color: #f87171;
+  border-color: rgba(248, 113, 113, 0.4);
+}
+[data-theme="dark"] .rawi-badge.tier-6 .badge-icon, [data-theme="dark"] .rawi-dot.tier-6 { background-color: #f87171; }
+
+/* --------------------------------------------------------------------------
+   Classical Rumuz al-Kutub Tokens (خ, م, د, ت, س, ق, ٤, ع)
+   -------------------------------------------------------------------------- */
+.rumuz-tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.6rem;
+  height: 1.6rem;
+  padding: 0 0.4rem;
+  border-radius: 6px;
+  font-family: var(--font-arabic, serif);
+  font-weight: 700;
+  font-size: 0.95rem;
+  background: #f1f5f9;
+  color: #334155;
+  border: 1px solid #cbd5e1;
+}
+
+[data-theme="dark"] .rumuz-tag {
+  background: #1e293b;
+  color: #e2e8f0;
+  border-color: #334155;
+}
+
+.rumuz-tag.bukhari { background: #dbeafe; color: #1e40af; border-color: #93c5fd; }
+.rumuz-tag.muslim  { background: #ede9fe; color: #5b21b6; border-color: #c4b5fd; }
+.rumuz-tag.jamaah  { background: #fef3c7; color: #92400e; border-color: #fde68a; }
+
+[data-theme="dark"] .rumuz-tag.bukhari { background: rgba(30, 64, 175, 0.25); color: #93c5fd; border-color: #1d4ed8; }
+[data-theme="dark"] .rumuz-tag.muslim  { background: rgba(91, 33, 182, 0.25); color: #c4b5fd; border-color: #6d28d9; }
+[data-theme="dark"] .rumuz-tag.jamaah  { background: rgba(146, 64, 14, 0.25); color: #fde68a; border-color: #b45309; }
+
+/* --------------------------------------------------------------------------
+   Isnad In-Text Micro Indicator (Used across all Hadith readers)
+   -------------------------------------------------------------------------- */
+.rawi-token {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.15s ease-in-out;
+}
+
+.rawi-token:hover {
+  filter: brightness(0.95);
+  transform: translateY(-1px);
+}
+
+.rawi-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  display: inline-block;
+}

@@ -1,0 +1,168 @@
+{
+  "$schema": "../../schemas/narrator.schema.json",
+  "id": 1842,
+  "slug": "malik-ibn-anas",
+  "name_ar": "مَالِكُ بْنُ أَنَسِ بْنِ مَالِكٍ الأَصْبَحِيُّ",
+  "name_en": "Malik ibn Anas al-Asbahi",
+  "name_ms": "Malik bin Anas al-Asbahi",
+  "kunya": "أَبُو عَبْدِ اللَّهِ",
+  "nasab": "مالك بن أنس بن مالك بن أبي عامر بن عمرو بن الحارث الأصبحي الحميري",
+  "laqab": "إِمَامُ دَارِ الهِجْرَةِ",
+  "nisbah": "الأصبحي الحميري المدني",
+  "generation": {
+    "code": "taba_tabiin",
+    "name_ar": "أتباع التابعين (الطبقة السابعة)",
+    "name_ms": "Pengikut Tabi'in (Tabaqah ke-7)",
+    "name_en": "Followers of the Successors (7th Generation)",
+    "ibn_hajar_tabaqah": 7
+  },
+  "birth": {
+    "ah": 93,
+    "ce": 711,
+    "place": "المدينة المنورة"
+  },
+  "death": {
+    "ah": 179,
+    "ce": 795,
+    "place": "المدينة المنورة (دفن بالبقيع)"
+  },
+  "places_of_stay": [
+    "المدينة المنورة"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": ["خ", "م", "د", "ت", "س", "ق", "ع"],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 6360,
+    "tahdhib_al_mizzi": 5698,
+    "shamela_rawi_id": 1842,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة ثبت / إمام دار الهجرة",
+    "grade_ms": "Sangat Terpercaya (Thiqah Thabat / Imam)",
+    "grade_en": "Highest Reliability (Thiqah Thabat / Imam)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "الرأس في العلم والعمل",
+    "summary_notes_ar": "إمام دار الهجرة، فقيه الأمة، وأحد الأعلام المقتدى بهم بإجماع أهل العلم.",
+    "summary_notes_ms": "Imam Darul Hijrah, pakar fiqh umat, dan salah seorang tokoh ikutan dengan ijmak para ulama.",
+    "summary_notes_en": "Imam of Dar al-Hijrah, jurist of the Ummah, and undisputed authority by scholarly consensus."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "أحمد بن حنبل",
+      "scholar_name_ms": "Ahmad bin Hanbal",
+      "scholar_name_en": "Ahmad ibn Hanbal",
+      "scholar_death_ah": 241,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Imam Thiqah",
+      "statement_ar": "مالك إمام في الحديث، وهو أثبت الناس في حديث الزهري وأصحهم رواية.",
+      "statement_ms": "Malik adalah imam dalam Hadith, orang paling teguh riwayatnya daripada Az-Zuhri dan paling sahih periwayatannya.",
+      "statement_en": "Malik is an Imam in Hadith, the firmest of people in narrating from Az-Zuhri and the most sound.",
+      "source_book": "Tahdhib al-Kamal",
+      "volume": "27",
+      "page": "102"
+    },
+    {
+      "scholar_name_ar": "يحيى بن معين",
+      "scholar_name_ms": "Yahya bin Ma'in",
+      "scholar_name_en": "Yahya ibn Ma'in",
+      "scholar_death_ah": 233,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Thiqah Mutqan",
+      "statement_ar": "مالك حجة الله على خلقه في دينه، وهو ثقة مأمون ثبت.",
+      "statement_ms": "Malik adalah hujah Allah atas makhluk-Nya dalam agama-Nya, dan beliau seorang yang terpercaya, amanah dan kukuh hafazan.",
+      "statement_en": "Malik is Allah's proof over His creation in His religion, trustworthy, dependable, and firm.",
+      "source_book": "Al-Jarh wa at-Ta'dil li-Ibn Abi Hatim",
+      "volume": "8",
+      "page": "204"
+    },
+    {
+      "scholar_name_ar": "البخاري",
+      "scholar_name_ms": "Al-Bukhari",
+      "scholar_name_en": "Al-Bukhari",
+      "scholar_death_ah": 256,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Asahh al-Asanid",
+      "statement_ar": "أصح الأسانيد كلها: مالك عن نافع عن ابن عمر.",
+      "statement_ms": "Sanad paling sahih secara mutlak adalah: Malik daripada Nafi' daripada Ibn 'Umar (Silsilat al-Dhahab).",
+      "statement_en": "The soundest of all chains: Malik from Nafi' from Ibn 'Umar (The Golden Chain).",
+      "source_book": "Al-Jami' as-Sahih",
+      "volume": "1",
+      "page": "8"
+    },
+    {
+      "scholar_name_ar": "ابن حجر العسقلاني",
+      "scholar_name_ms": "Ibn Hajar al-'Asqalani",
+      "scholar_name_en": "Ibn Hajar al-'Asqalani",
+      "scholar_death_ah": 852,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Ra's al-Mutqinin",
+      "statement_ar": "إمام دار الهجرة، رأس المتقنين وكبير المتثبتين، حتى قال البخاري: أصح الأسانيد مالك عن نافع عن ابن عمر.",
+      "statement_ms": "Imam Darul Hijrah, penghulu orang-orang yang teliti dan tokoh terbesar yang teguh periwayatannya.",
+      "statement_en": "Imam of Dar al-Hijrah, pinnacle of precise preservers and master of rigorous transmitters.",
+      "source_book": "Taqrib al-Tahdhib",
+      "volume": "1",
+      "page": "516"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 168,
+      "name_ar": "نافع مولى ابن عمر",
+      "name_ms": "Nafi' Mawla Ibn 'Umar",
+      "name_en": "Nafi' Mawla Ibn 'Umar",
+      "reliability_level": 1
+    },
+    {
+      "narrator_id": 1950,
+      "name_ar": "محمد بن مسلم بن شهاب الزهري",
+      "name_ms": "Ibn Shihab az-Zuhri",
+      "name_en": "Muhammad ibn Muslim az-Zuhri",
+      "reliability_level": 1
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 1128,
+      "name_ar": "سفيان بن عيينة",
+      "name_ms": "Sufyan bin 'Uyaynah",
+      "name_en": "Sufyan ibn 'Uyaynah",
+      "reliability_level": 1
+    },
+    {
+      "narrator_id": 3500,
+      "name_ar": "عبد الله بن وهب القرشي",
+      "name_ms": "Abdullah bin Wahb al-Qurashi",
+      "name_en": "Abdullah ibn Wahb",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-al-bukhari",
+      "collection_title": "Sahih al-Bukhari",
+      "narrations_count": 284,
+      "sample_hadiths": [1, 62, 112, 150]
+    },
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 218,
+      "sample_hadiths": [19, 44, 98]
+    }
+  ]
+}

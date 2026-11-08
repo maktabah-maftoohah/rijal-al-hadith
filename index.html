@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Maktabah Maftoohah — Rijal al-Hadith</title>
-  <meta name="description" content="Maktabah Maftoohah — Rijal al-Hadith (موسوعة رجال الحديث ورواته) — Zero-Build Digital Islamic Heritage Library.">
+  <title>Rijal al-Hadith (رجال الحديث) — Ensiklopedia Perawi Hadith</title>
+  <meta name="description" content="Ensiklopedia lengkap perawi hadith dan ilmu Jarh wa Ta'dil. Penilaian kebolehpercayaan 7 peringkat, petikan kata-kata ulama mu'tabar, dan rangkaian guru-murid.">
   <link rel="canonical" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/">
 
   <!-- Multilingual Alternates -->
@@ -15,17 +15,18 @@
 
   <!-- Open Graph & Social Cards -->
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Maktabah Maftoohah — Rijal al-Hadith">
-  <meta property="og:title" content="Maktabah Maftoohah — Rijal al-Hadith">
-  <meta property="og:description" content="Maktabah Maftoohah — Rijal al-Hadith (موسوعة رجال الحديث ورواته) — Zero-Build Digital Islamic Heritage Library.">
+  <meta property="og:site_name" content="Maktabah Maftoohah">
+  <meta property="og:title" content="Rijal al-Hadith (رجال الحديث) — Ensiklopedia Perawi Hadith">
+  <meta property="og:description" content="Pangkalan data biografi dan status Jarh wa Ta'dil perawi hadith merentasi kitab-kitab hadis utama.">
   <meta property="og:url" content="https://maktabah-maftoohah.github.io/rijal-al-hadith/">
 
   <!-- Structured Data JSON-LD -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Book",
-    "name": "Maktabah Maftoohah — Rijal al-Hadith",
+    "@type": "WebSite",
+    "name": "Rijal al-Hadith — Maktabah Maftoohah",
+    "alternateName": "موسوعة رجال الحديث ورواته",
     "url": "https://maktabah-maftoohah.github.io/rijal-al-hadith/",
     "inLanguage": ["ar", "ms", "en"],
     "publisher": {
@@ -36,12 +37,14 @@
   }
   </script>
 
-  <!-- Google Fonts: Amiri, Scheherazade New, and Inter -->
+  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700;800&family=Scheherazade+New:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Inter:wght@400;500;600;700&family=Scheherazade+New:wght@400;700&display=swap" rel="stylesheet">
 
+  <!-- Subpath-Safe Relative CSS -->
   <link rel="stylesheet" href="./css/main.css">
+  <link rel="stylesheet" href="./css/badges.css">
   <link rel="manifest" href="./manifest.webmanifest">
   <meta name="theme-color" content="#064e3b">
 </head>
@@ -49,27 +52,75 @@
   <header class="app-header">
     <div class="header-container">
       <div class="brand-group">
-        <h1 class="app-title">Maktabah Maftoohah — Rijal al-Hadith</h1>
-        <p class="app-title-ar" dir="rtl">موسوعة رجال الحديث ورواته</p>
+        <a href="./" class="app-title">Maktabah Maftoohah — Rijal al-Hadith</a>
+        <p class="app-title-ar" dir="rtl">موسوعة رجال الحديث ورواته — الجرح والتعديل</p>
       </div>
       <div class="header-actions">
         <button id="themeToggle" class="btn-icon" title="Tukar Tema">🌙</button>
-        <button id="langToggle" class="btn-pill" title="Tukar Bahasa">MY / EN</button>
+        <button id="langToggle" class="btn-pill" title="Tukar Bahasa">MY</button>
       </div>
     </div>
   </header>
 
   <main class="app-main">
     <section class="hero-section">
-      <p class="hero-desc">Maktabah Maftoohah — Perpustakaan Digital Terbuka</p>
+      <h1 class="hero-title" dir="rtl">مَوْسُوعَةُ رِجَالِ الحَدِيثِ وَرُوَاتِهِ</h1>
+      <p class="hero-subtitle">Carian profil, status kebolehpercayaan (Jarh wa Ta'dil), dan rangkaian transmisi perawi hadis.</p>
+
+      <div class="filter-wrapper">
+        <div class="search-bar-row">
+          <input
+            type="search"
+            id="searchInput"
+            class="search-input"
+            placeholder="Cari nama perawi, kunya, laqab, atau ID (cth: مالك, نافع, Ibn Umar, 1842)..."
+            autocomplete="off">
+        </div>
+
+        <div class="filter-selects-row">
+          <select id="tierFilter" class="filter-select">
+            <option value="">Semua Tahap Kebolehpercayaan</option>
+            <option value="0">Tier 0: Sahabat Nabi ('Udool)</option>
+            <option value="1">Tier 1: Thiqah Thabat / Imam</option>
+            <option value="2">Tier 2: Thiqah / Saduq</option>
+            <option value="3">Tier 3: Maqbool / Layyin</option>
+            <option value="4">Tier 4: Majhul / Mastur</option>
+            <option value="5">Tier 5: Da'if / Lemah</option>
+            <option value="6">Tier 6: Matruk / Ditinggalkan</option>
+          </select>
+
+          <select id="tabaqahFilter" class="filter-select">
+            <option value="">Semua Generasi (Tabaqat)</option>
+            <option value="sahabi">Sahabat Nabi (Sahabi)</option>
+            <option value="kibar_tabiin">Kibar at-Tabi'in</option>
+            <option value="wusta_tabiin">Wusta at-Tabi'in</option>
+            <option value="taba_tabiin">Taba' at-Tabi'in</option>
+          </select>
+        </div>
+
+        <div class="rumuz-filter-row">
+          <span class="rumuz-label">Rumuz Kitab:</span>
+          <button class="rumuz-btn" data-ramz="خ" title="Sahih al-Bukhari">خ (Bukhari)</button>
+          <button class="rumuz-btn" data-ramz="م" title="Sahih Muslim">م (Muslim)</button>
+          <button class="rumuz-btn" data-ramz="د" title="Sunan Abi Dawud">د (Abu Dawud)</button>
+          <button class="rumuz-btn" data-ramz="ت" title="Jami' at-Tirmidhi">ت (Tirmidhi)</button>
+          <button class="rumuz-btn" data-ramz="س" title="Sunan an-Nasa'i">س (Nasa'i)</button>
+          <button class="rumuz-btn" data-ramz="ق" title="Sunan Ibn Majah">ق (Ibn Majah)</button>
+          <button class="rumuz-btn" data-ramz="ع" title="Al-Jama'ah (Semua 6 Kitab)">ع (Semua 6)</button>
+        </div>
+      </div>
     </section>
-    <section id="contentView" class="content-container">
-      <p class="loading-state">Memuatkan kandungan...</p>
+
+    <section class="content-container">
+      <div id="resultsStats" class="results-stats">Memuatkan data perawi...</div>
+      <div id="contentView">
+        <p class="loading-state">Memuatkan katalog perawi...</p>
+      </div>
     </section>
   </main>
 
   <footer class="app-footer">
-    <p>Maktabah Maftoohah — Zero-Build Open Islamic Heritage</p>
+    <p>Maktabah Maftoohah — Zero-Build Open Islamic Heritage Library</p>
   </footer>
 
   <script type="module" src="./js/app.js"></script>

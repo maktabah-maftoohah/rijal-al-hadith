@@ -1,0 +1,134 @@
+{
+  "$schema": "../../schemas/narrator.schema.json",
+  "id": 1,
+  "slug": "abdullah-ibn-umar",
+  "name_ar": "عَبْدُ اللَّهِ بْنُ عُمَرَ بْنِ الخَطَّابِ القُرَشِيُّ العَدَوِيُّ",
+  "name_en": "Abdullah ibn Umar ibn al-Khattab",
+  "name_ms": "Abdullah bin Umar bin al-Khattab",
+  "kunya": "أَبُو عَبْدِ الرَّحْمَنِ",
+  "nasab": "عبد الله بن عمر بن الخطاب بن نفيل القرشي العدوي",
+  "laqab": "فَقِيهُ الصَّحَابَةِ وَمُتَّبِعُ الأَثَرِ",
+  "nisbah": "القرشي العدوي المدني",
+  "generation": {
+    "code": "sahabi",
+    "name_ar": "صحابي جليل (صغار الصحابة)",
+    "name_ms": "Sahabat Nabi SAW",
+    "name_en": "Noble Companion of the Prophet",
+    "ibn_hajar_tabaqah": 1
+  },
+  "birth": {
+    "ah": -10,
+    "ce": 613,
+    "place": "مكة المكرمة"
+  },
+  "death": {
+    "ah": 73,
+    "ce": 693,
+    "place": "مكة المكرمة (دفن بذي طوى)"
+  },
+  "places_of_stay": [
+    "المدينة المنورة",
+    "مكة المكرمة"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": ["خ", "م", "د", "ت", "س", "ق", "ع"],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 3460,
+    "tahdhib_al_mizzi": 3120,
+    "shamela_rawi_id": 1,
+    "al_isabah": 4824
+  },
+  "reliability": {
+    "level": 0,
+    "grade_key": "sahabi",
+    "grade_ar": "صحابي جليل (عدل بالإجماع)",
+    "grade_ms": "Sahabat Nabi SAW ('Adil dengan Ijmak)",
+    "grade_en": "Noble Companion ('Adil by Consensus)",
+    "color_code": "#0284c7",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "الإمام القدوة شيخ الإسلام",
+    "summary_notes_ar": "أحد المكثرين من رواية الحديث، شديد الاتباع لآثار النبي صلى الله عليه وسلم، عدل مأمون بإجماع المسلمين.",
+    "summary_notes_ms": "Salah seorang sahabat yang paling banyak meriwayatkan Hadith, amat teguh meneladani sunnah Nabi SAW, adil dan terpercaya dengan ijmak kaum Muslimin.",
+    "summary_notes_en": "Among the most prolific narrators of Hadith, renowned for meticulous emulation of the Prophet SAW, upright by consensus."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "جمهور علماء الأمة",
+      "scholar_name_ms": "Jumhur Ulama Umat Islam",
+      "scholar_name_en": "Consensus of Islamic Scholarship",
+      "scholar_death_ah": null,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Sahabi 'Adl",
+      "statement_ar": "الصحابة كلهم عدول بتعديل الله تعالى لهم في القرآن العظيم ورسوله في السنة الصحيحة.",
+      "statement_ms": "Semua Sahabat adalah adil berdasarkan perakuan Allah SWT dalam Al-Quran dan Rasul-Nya dalam Sunnah yang sahih.",
+      "statement_en": "All Companions are universally deemed upright through Divine commendation in the Quran and the Sunnah.",
+      "source_book": "Al-Isabah fi Tamyiz as-Sahabah",
+      "volume": "1",
+      "page": "17"
+    },
+    {
+      "scholar_name_ar": "الزهري",
+      "scholar_name_ms": "Ibn Shihab az-Zuhri",
+      "scholar_name_en": "Ibn Shihab az-Zuhri",
+      "scholar_death_ah": 124,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Faqih Muttabi'",
+      "statement_ar": "لا نعدل برأي ابن عمر أحداً، إنه أقام بعد رسول الله ستين سنة فلم يخف عليه شيء من أمره.",
+      "statement_ms": "Kami tidak menyamakan pandangan sesiapapun dengan Ibn 'Umar; beliau hidup selama enam puluh tahun selepas Rasulullah SAW dan tiada sesuatu pun dari urusan baginda yang tersembunyi daripadanya.",
+      "statement_en": "We place no one's opinion above Ibn 'Umar; he remained sixty years after the Prophet SAW and nothing of his ways was hidden from him.",
+      "source_book": "Siyar A'lam an-Nubala'",
+      "volume": "3",
+      "page": "221"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 0,
+      "name_ar": "رسول الله محمد صلى الله عليه وسلم",
+      "name_ms": "Rasulullah Muhammad SAW",
+      "name_en": "Prophet Muhammad (peace be upon him)",
+      "reliability_level": 0
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 168,
+      "name_ar": "نافع مولى ابن عمر",
+      "name_ms": "Nafi' Mawla Ibn 'Umar",
+      "name_en": "Nafi' Mawla Ibn 'Umar",
+      "reliability_level": 1
+    },
+    {
+      "narrator_id": 1950,
+      "name_ar": "محمد بن مسلم بن شهاب الزهري",
+      "name_ms": "Ibn Shihab az-Zuhri",
+      "name_en": "Muhammad ibn Muslim az-Zuhri",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-al-bukhari",
+      "collection_title": "Sahih al-Bukhari",
+      "narrations_count": 718,
+      "sample_hadiths": [1, 8, 45, 120]
+    },
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 642,
+      "sample_hadiths": [16, 21, 60]
+    }
+  ]
+}

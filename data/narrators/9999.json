@@ -1,0 +1,98 @@
+{
+  "$schema": "../../schemas/narrator.schema.json",
+  "id": 9999,
+  "slug": "rajul-min-ahl-al-badiyah",
+  "name_ar": "رَجُلٌ مِنْ أَهْلِ البَادِيَةِ (مُبْهَم)",
+  "name_en": "Unspecified Bedouin Transmitter (Mubham)",
+  "name_ms": "Lelaki daripada Penduduk Badwi (Mubham)",
+  "kunya": null,
+  "nasab": null,
+  "laqab": "رَاوٍ مُبْهَمٌ",
+  "nisbah": "البدوي",
+  "generation": {
+    "code": "sahabi",
+    "name_ar": "صحابي مبهم (أعرابي)",
+    "name_ms": "Sahabat Mubham (Arab Badwi)",
+    "name_en": "Anonymous Companion (Bedouin)",
+    "ibn_hajar_tabaqah": 1
+  },
+  "birth": {
+    "ah": null,
+    "ce": null,
+    "place": "بادية الحجاز"
+  },
+  "death": {
+    "ah": null,
+    "ce": null,
+    "place": null
+  },
+  "places_of_stay": [
+    "بادية الحجاز"
+  ],
+  "is_mubham": true,
+  "mubham_details": {
+    "original_phrase_ar": "عَنْ رَجُلٍ مِنْ أَهْلِ البَادِيَةِ",
+    "identified_as_narrator_id": 1205,
+    "scholarly_identification_source": "الأسماء المبهمة في الأنباء المحكمة للخطيب البغدادي (ص 142)"
+  },
+  "books": {
+    "rumuz": ["د", "س"],
+    "collections": [
+      "sunan-abi-dawud",
+      "sunan-an-nasai"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": null,
+    "tahdhib_al_mizzi": null,
+    "shamela_rawi_id": 9999,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 0,
+    "grade_key": "sahabi",
+    "grade_ar": "صحابي مبهم (جهالة الصحابي لا تضر)",
+    "grade_ms": "Sahabat Mubham (Kejahalan Nama Sahabat Tidak Menjejaskan Kesahihan)",
+    "grade_en": "Anonymous Companion (Anonymity of Companions Does Not Impair Authenticity)",
+    "color_code": "#0284c7",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "صحابي لا تضر جهالته",
+    "summary_notes_ar": "إذا ثبتت صحبته فروايته مقبولة صحيحة، لأن جهالة الصحابي لا تضر بعدالتهم بالإجماع.",
+    "summary_notes_ms": "Sekiranya terbukti persahabatannya dengan Nabi SAW, periwayatannya diterima kerana kejahalan identiti Sahabat tidak merosakkan keadilan mereka mengikut ijmak ulama.",
+    "summary_notes_en": "Once companionship is established, narration is accepted as anonymity of a Companion does not impair validity by consensus."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "ابن الصلاح",
+      "scholar_name_ms": "Ibn as-Salah",
+      "scholar_name_en": "Ibn al-Salah",
+      "scholar_death_ah": 643,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Jahalat as-Sahabi",
+      "statement_ar": "جهالة الصحابي في السند غير قادحة في صحة الحديث، لأن الصحابة كلهم عدول بتعديل الله ورسوله.",
+      "statement_ms": "Kejahalan nama seorang Sahabat dalam sanad tidak mencacatkan kesahihan hadith kerana semua Sahabat adalah adil.",
+      "statement_en": "Anonymity of a Companion in the chain does not impair the soundness of the hadith.",
+      "source_book": "Muqaddimat Ibn as-Salah",
+      "volume": "1",
+      "page": "145"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 0,
+      "name_ar": "رسول الله محمد صلى الله عليه وسلم",
+      "name_ms": "Rasulullah Muhammad SAW",
+      "name_en": "Prophet Muhammad (peace be upon him)",
+      "reliability_level": 0
+    }
+  ],
+  "students": [],
+  "appearances": [
+    {
+      "repo": "sunan-abi-dawud",
+      "collection_title": "Sunan Abi Dawud",
+      "narrations_count": 2,
+      "sample_hadiths": [1420]
+    }
+  ]
+}

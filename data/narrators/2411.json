@@ -1,0 +1,154 @@
+{
+  "$schema": "../../schemas/narrator.schema.json",
+  "id": 2411,
+  "slug": "hammad-ibn-salamah",
+  "name_ar": "حَمَّادُ بْنُ سَلَمَةَ بْنِ دِينَارٍ البَصْرِيُّ",
+  "name_en": "Hammad ibn Salamah al-Basri",
+  "name_ms": "Hammad bin Salamah al-Basri",
+  "kunya": "أَبُو سَلَمَةَ",
+  "nasab": "حماد بن سلمة بن دينار البصري الربعي بالولاء",
+  "laqab": "إِمَامُ البَصْرَةِ وَمُفْتِيهَا",
+  "nisbah": "البصري الربعي",
+  "generation": {
+    "code": "taba_tabiin",
+    "name_ar": "أتباع التابعين (الطبقة السابعة)",
+    "name_ms": "Pengikut Tabi'in (Tabaqah ke-7)",
+    "name_en": "Followers of the Successors (7th Generation)",
+    "ibn_hajar_tabaqah": 7
+  },
+  "birth": {
+    "ah": 91,
+    "ce": 710,
+    "place": "البصرة"
+  },
+  "death": {
+    "ah": 167,
+    "ce": 784,
+    "place": "البصرة"
+  },
+  "places_of_stay": [
+    "البصرة"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": ["خ", "م", "د", "ت", "س", "ق", "ع"],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 1499,
+    "tahdhib_al_mizzi": 1475,
+    "shamela_rawi_id": 2411,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 2,
+    "grade_key": "thiqah_saduq",
+    "grade_ar": "ثقة عابد أثبت الناس في ثابت وتغير حفظه بأخرة",
+    "grade_ms": "Terpercaya & Ahli Ibadah, Paling Teguh periwayatan daripada Thabit, Mengalami Sedikit Perubahan Ingatan di Usia Lanjut",
+    "grade_en": "Trustworthy Devout Scholar, Firmest in Thabit, Suffered Memory Decline Late in Life",
+    "color_code": "#059669",
+    "ibn_hajar_rank": 3,
+    "dhahabi_rank": "الإمام الحافظ القدوة شيخ الإسلام",
+    "summary_notes_ar": "ثقة عابد، أثبت الناس في ثابت البناني، أخرج له مسلم في الأصول والبخاري تعليقاً واستشهاداً لتحاشي ما تغير فيه حفظه بأخرة.",
+    "summary_notes_ms": "Terpercaya, orang paling kukuh periwayatannya daripada Thabit al-Bunani; Imam Muslim meriwayatkan daripadanya dalam Usul, manakala Al-Bukhari mengeluarkannya sebagai mu'allaq dan syawahid kerana ingatan beliau sedikit berubah di usia tua.",
+    "summary_notes_en": "Trustworthy, the firmest authority on Thabit al-Bunani; Muslim narrated from him in the main core, while Al-Bukhari cited him in ta'liq and corroboration."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "أحمد بن حنبل",
+      "scholar_name_ms": "Ahmad bin Hanbal",
+      "scholar_name_en": "Ahmad ibn Hanbal",
+      "scholar_death_ah": 241,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "A'lam an-Nas",
+      "statement_ar": "حماد بن سلمة أعلم الناس بحديث ثابت البناني وأثبتهم فيه، ومن تكلم فيه فاتهمه.",
+      "statement_ms": "Hammad bin Salamah adalah orang paling alim dan teguh mengenai hadis Thabit al-Bunani, dan sesiapa mencelanya maka curigailah agamanya.",
+      "statement_en": "Hammad ibn Salamah is the most knowledgeable authority on Thabit al-Bunani.",
+      "source_book": "Tahdhib al-Kamal",
+      "volume": "7",
+      "page": "262"
+    },
+    {
+      "scholar_name_ar": "يحيى بن معين",
+      "scholar_name_ms": "Yahya bin Ma'in",
+      "scholar_name_en": "Yahya ibn Ma'in",
+      "scholar_death_ah": 233,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Thiqah",
+      "statement_ar": "حماد بن سلمة ثقة، وهو أثبت الناس في ثابت.",
+      "statement_ms": "Hammad bin Salamah adalah seorang yang terpercaya, orang paling kukuh mengenai Thabit.",
+      "statement_en": "Hammad ibn Salamah is trustworthy, the firmest on Thabit.",
+      "source_book": "Al-Jarh wa at-Ta'dil",
+      "volume": "3",
+      "page": "141"
+    },
+    {
+      "scholar_name_ar": "النسائي",
+      "scholar_name_ms": "An-Nasa'i",
+      "scholar_name_en": "An-Nasa'i",
+      "scholar_death_ah": 303,
+      "scholar_approach": "mutashaddid",
+      "verdict_category": "Laysa bihi ba's",
+      "statement_ar": "ليس به بأس، وكان قد تغير حفظه في آخره.",
+      "statement_ms": "Tiada masalah padanya, namun ingatannya sedikit berubah pada penghujung hayatnya.",
+      "statement_en": "There is no harm in him, but his memory declined toward the end of his life.",
+      "source_book": "Tahdhib al-Tahdhib",
+      "volume": "3",
+      "page": "14"
+    },
+    {
+      "scholar_name_ar": "ابن حجر العسقلاني",
+      "scholar_name_ms": "Ibn Hajar al-'Asqalani",
+      "scholar_name_en": "Ibn Hajar al-'Asqalani",
+      "scholar_death_ah": 852,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Thiqah 'Abid",
+      "statement_ar": "ثقة عابد أثبت الناس في ثابت وتغير حفظه بأخرة، ولم يعدل به مسلم في ثابت أحداً.",
+      "statement_ms": "Terpercaya, abid, paling kukuh mengenai Thabit dan ingatannya berubah di akhir hayat; Imam Muslim tidak menyamakan sesiapapun dengannya mengenai Thabit.",
+      "statement_en": "Trustworthy, devout, firmest in Thabit, his memory altered late in life.",
+      "source_book": "Taqrib al-Tahdhib",
+      "volume": "1",
+      "page": "179"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 850,
+      "name_ar": "ثابت بن أسلم البناني",
+      "name_ms": "Thabit bin Aslam al-Bunani",
+      "name_en": "Thabit al-Bunani",
+      "reliability_level": 1
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 3100,
+      "name_ar": "عفان بن مسلم الصفار",
+      "name_ms": "'Affan bin Muslim as-Saffar",
+      "name_en": "Affan ibn Muslim",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 182,
+      "sample_hadiths": [55, 120]
+    },
+    {
+      "repo": "sunan-abi-dawud",
+      "collection_title": "Sunan Abi Dawud",
+      "narrations_count": 310,
+      "sample_hadiths": [32, 89]
+    }
+  ]
+}

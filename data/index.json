@@ -1,0 +1,193 @@
+[
+  {
+    "id": 1,
+    "name_ar": "عَبْدُ اللَّهِ بْنُ عُمَرَ بْنِ الخَطَّابِ القُرَشِيُّ العَدَوِيُّ",
+    "name_en": "Abdullah ibn Umar ibn al-Khattab",
+    "name_ms": "Abdullah bin Umar bin al-Khattab",
+    "kunya": "أَبُو عَبْدِ الرَّحْمَنِ",
+    "laqab": "فَقِيهُ الصَّحَابَةِ وَمُتَّبِعُ الأَثَرِ",
+    "generation": {
+      "code": "sahabi",
+      "name_ar": "صحابي جليل (صغار الصحابة)",
+      "name_ms": "Sahabat Nabi SAW",
+      "name_en": "Noble Companion of the Prophet",
+      "ibn_hajar_tabaqah": 1
+    },
+    "reliability": {
+      "level": 0,
+      "grade_ms": "Sahabat Nabi SAW ('Adil dengan Ijmak)",
+      "grade_ar": "صحابي جليل (عدل بالإجماع)",
+      "color_code": "#0284c7"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 168,
+    "name_ar": "نَافِعٌ أَبُو عَبْدِ اللَّهِ المَدَنِيُّ مَوْلَى ابْنِ عُمَرَ",
+    "name_en": "Nafi' Mawla Ibn Umar",
+    "name_ms": "Nafi' Mawla Ibn 'Umar",
+    "kunya": "أَبُو عَبْدِ اللَّهِ",
+    "laqab": "فَقِيهُ المَدِينَةِ وَثَبَتُهَا",
+    "generation": {
+      "code": "wusta_tabiin",
+      "name_ar": "أوساط التابعين (الطبقة الثالثة)",
+      "name_ms": "Pertengahan Tabi'in (Tabaqah ke-3)",
+      "name_en": "Middle Generation of Successors (3rd Generation)",
+      "ibn_hajar_tabaqah": 3
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya (Thiqah Thabat)",
+      "grade_ar": "ثقة ثبت فقيه مشهور",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 1842,
+    "name_ar": "مَالِكُ بْنُ أَنَسِ بْنِ مَالِكٍ الأَصْبَحِيُّ",
+    "name_en": "Malik ibn Anas al-Asbahi",
+    "name_ms": "Malik bin Anas al-Asbahi",
+    "kunya": "أَبُو عَبْدِ اللَّهِ",
+    "laqab": "إِمَامُ دَارِ الهِجْرَةِ",
+    "generation": {
+      "code": "taba_tabiin",
+      "name_ar": "أتباع التابعين (الطبقة السابعة)",
+      "name_ms": "Pengikut Tabi'in (Tabaqah ke-7)",
+      "name_en": "Followers of the Successors (7th Generation)",
+      "ibn_hajar_tabaqah": 7
+    },
+    "reliability": {
+      "level": 1,
+      "grade_ms": "Sangat Terpercaya (Thiqah Thabat / Imam)",
+      "grade_ar": "ثقة ثبت / إمام دار الهجرة",
+      "color_code": "#15803d"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 2411,
+    "name_ar": "حَمَّادُ بْنُ سَلَمَةَ بْنِ دِينَارٍ البَصْرِيُّ",
+    "name_en": "Hammad ibn Salamah al-Basri",
+    "name_ms": "Hammad bin Salamah al-Basri",
+    "kunya": "أَبُو سَلَمَةَ",
+    "laqab": "إِمَامُ البَصْرَةِ وَمُفْتِيهَا",
+    "generation": {
+      "code": "taba_tabiin",
+      "name_ar": "أتباع التابعين (الطبقة السابعة)",
+      "name_ms": "Pengikut Tabi'in (Tabaqah ke-7)",
+      "name_en": "Followers of the Successors (7th Generation)",
+      "ibn_hajar_tabaqah": 7
+    },
+    "reliability": {
+      "level": 2,
+      "grade_ms": "Terpercaya & Ahli Ibadah, Paling Teguh periwayatan daripada Thabit, Mengalami Sedikit Perubahan Ingatan di Usia Lanjut",
+      "grade_ar": "ثقة عابد أثبت الناس في ثابت وتغير حفظه بأخرة",
+      "color_code": "#059669"
+    },
+    "books": {
+      "rumuz": [
+        "خ",
+        "م",
+        "د",
+        "ت",
+        "س",
+        "ق",
+        "ع"
+      ],
+      "collections": [
+        "sahih-al-bukhari",
+        "sahih-muslim",
+        "sunan-abi-dawud",
+        "jami-al-tirmidhi",
+        "sunan-an-nasai",
+        "sunan-ibn-majah"
+      ]
+    }
+  },
+  {
+    "id": 9999,
+    "name_ar": "رَجُلٌ مِنْ أَهْلِ البَادِيَةِ (مُبْهَم)",
+    "name_en": "Unspecified Bedouin Transmitter (Mubham)",
+    "name_ms": "Lelaki daripada Penduduk Badwi (Mubham)",
+    "kunya": "",
+    "laqab": "رَاوٍ مُبْهَمٌ",
+    "generation": {
+      "code": "sahabi",
+      "name_ar": "صحابي مبهم (أعرابي)",
+      "name_ms": "Sahabat Mubham (Arab Badwi)",
+      "name_en": "Anonymous Companion (Bedouin)",
+      "ibn_hajar_tabaqah": 1
+    },
+    "reliability": {
+      "level": 0,
+      "grade_ms": "Sahabat Mubham (Kejahalan Nama Sahabat Tidak Menjejaskan Kesahihan)",
+      "grade_ar": "صحابي مبهم (جهالة الصحابي لا تضر)",
+      "color_code": "#0284c7"
+    },
+    "books": {
+      "rumuz": [
+        "د",
+        "س"
+      ],
+      "collections": [
+        "sunan-abi-dawud",
+        "sunan-an-nasai"
+      ]
+    }
+  }
+]

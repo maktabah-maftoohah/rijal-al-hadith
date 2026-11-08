@@ -1,0 +1,133 @@
+{
+  "$schema": "../../schemas/narrator.schema.json",
+  "id": 168,
+  "slug": "nafi-mawla-ibn-umar",
+  "name_ar": "نَافِعٌ أَبُو عَبْدِ اللَّهِ المَدَنِيُّ مَوْلَى ابْنِ عُمَرَ",
+  "name_en": "Nafi' Mawla Ibn Umar",
+  "name_ms": "Nafi' Mawla Ibn 'Umar",
+  "kunya": "أَبُو عَبْدِ اللَّهِ",
+  "nasab": "نافع المدني مولى عبد الله بن عمر بن الخطاب",
+  "laqab": "فَقِيهُ المَدِينَةِ وَثَبَتُهَا",
+  "nisbah": "المدني القرشي بالولاء",
+  "generation": {
+    "code": "wusta_tabiin",
+    "name_ar": "أوساط التابعين (الطبقة الثالثة)",
+    "name_ms": "Pertengahan Tabi'in (Tabaqah ke-3)",
+    "name_en": "Middle Generation of Successors (3rd Generation)",
+    "ibn_hajar_tabaqah": 3
+  },
+  "birth": {
+    "ah": 30,
+    "ce": 651,
+    "place": "المدينة المنورة"
+  },
+  "death": {
+    "ah": 117,
+    "ce": 735,
+    "place": "المدينة المنورة"
+  },
+  "places_of_stay": [
+    "المدينة المنورة"
+  ],
+  "is_mubham": false,
+  "mubham_details": null,
+  "books": {
+    "rumuz": ["خ", "م", "د", "ت", "س", "ق", "ع"],
+    "collections": [
+      "sahih-al-bukhari",
+      "sahih-muslim",
+      "sunan-abi-dawud",
+      "jami-al-tirmidhi",
+      "sunan-an-nasai",
+      "sunan-ibn-majah"
+    ]
+  },
+  "external_ids": {
+    "taqrib_ibn_hajar": 7085,
+    "tahdhib_al_mizzi": 6340,
+    "shamela_rawi_id": 168,
+    "al_isabah": null
+  },
+  "reliability": {
+    "level": 1,
+    "grade_key": "thiqah_thabat",
+    "grade_ar": "ثقة ثبت فقيه مشهور",
+    "grade_ms": "Sangat Terpercaya (Thiqah Thabat)",
+    "grade_en": "Highest Reliability (Thiqah Thabat)",
+    "color_code": "#15803d",
+    "ibn_hajar_rank": 1,
+    "dhahabi_rank": "الإمام الحافظ الثبت عالم المدينة",
+    "summary_notes_ar": "أحد أركان العلم وحفاظ الحديث، واسطة العقد في سلسلة الذهب (مالك عن نافع عن ابن عمر).",
+    "summary_notes_ms": "Salah satu rukun ilmu dan penghafal Hadith terunggul, penghubung utama dalam 'Silsilat al-Dhahab'.",
+    "summary_notes_en": "One of the central pillars of Hadith transmission, the keystone of the Golden Chain."
+  },
+  "scholarly_evaluations": [
+    {
+      "scholar_name_ar": "يحيى بن معين",
+      "scholar_name_ms": "Yahya bin Ma'in",
+      "scholar_name_en": "Yahya ibn Ma'in",
+      "scholar_death_ah": 233,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Thiqah Thabat",
+      "statement_ar": "نافع ثقة، مأمون، حجة.",
+      "statement_ms": "Nafi' adalah seorang yang terpercaya, amanah, dan menjadi hujah.",
+      "statement_en": "Nafi' is trustworthy, reliable, and an authoritative proof.",
+      "source_book": "Tahdhib al-Kamal",
+      "volume": "29",
+      "page": "298"
+    },
+    {
+      "scholar_name_ar": "ابن حجر العسقلاني",
+      "scholar_name_ms": "Ibn Hajar al-'Asqalani",
+      "scholar_name_en": "Ibn Hajar al-'Asqalani",
+      "scholar_death_ah": 852,
+      "scholar_approach": "mutawassit",
+      "verdict_category": "Thiqah Thabat Faqih",
+      "statement_ar": "ثقة ثبت فقيه مشهور، كان أثبت الناس في ابن عمر وأعلمهم بحديثه.",
+      "statement_ms": "Sangat terpercaya, kukuh riwayatnya, pakar fiqh terkenal, orang paling kukuh mengenai riwayat Ibn 'Umar.",
+      "statement_en": "Trustworthy, exceptionally firm, renowned jurist, the firmest authority on Ibn 'Umar.",
+      "source_book": "Taqrib al-Tahdhib",
+      "volume": "1",
+      "page": "559"
+    }
+  ],
+  "teachers": [
+    {
+      "narrator_id": 1,
+      "name_ar": "عبد الله بن عمر بن الخطاب",
+      "name_ms": "Abdullah bin Umar bin al-Khattab",
+      "name_en": "Abdullah ibn Umar",
+      "reliability_level": 0
+    }
+  ],
+  "students": [
+    {
+      "narrator_id": 1842,
+      "name_ar": "مالك بن أنس الأصبحي",
+      "name_ms": "Malik bin Anas al-Asbahi",
+      "name_en": "Malik ibn Anas",
+      "reliability_level": 1
+    },
+    {
+      "narrator_id": 1128,
+      "name_ar": "سفيan بن عيينة",
+      "name_ms": "Sufyan bin 'Uyaynah",
+      "name_en": "Sufyan ibn 'Uyaynah",
+      "reliability_level": 1
+    }
+  ],
+  "appearances": [
+    {
+      "repo": "sahih-al-bukhari",
+      "collection_title": "Sahih al-Bukhari",
+      "narrations_count": 492,
+      "sample_hadiths": [1, 24, 75, 114]
+    },
+    {
+      "repo": "sahih-muslim",
+      "collection_title": "Sahih Muslim",
+      "narrations_count": 380,
+      "sample_hadiths": [19, 29, 88]
+    }
+  ]
+}

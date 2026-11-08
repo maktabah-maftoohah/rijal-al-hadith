@@ -7,8 +7,46 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/?lang=en" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/?lang=ar" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/" />
-    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/1/</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/1/?lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/1/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/1/?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/1/" />
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/168/</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/168/?lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/168/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/168/?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/168/" />
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/1842/</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/1842/?lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/1842/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/1842/?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/1842/" />
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/2411/</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/2411/?lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/2411/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/2411/?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/2411/" />
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/9999/</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/9999/?lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/9999/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/9999/?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/9999/" />
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
