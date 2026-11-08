@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maktabah-maftoohah.github.io/rijal-al-hadith/sitemap.xml

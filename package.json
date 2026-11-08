@@ -1,0 +1,15 @@
+{
+  "name": "rijal-al-hadith",
+  "version": "1.0.0",
+  "description": "Maktabah Maftoohah — Rijal al-Hadith",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "serve": "python scripts/serve.py --port 8000",
+    "verify": "python scripts/verify_project.py && python scripts/verify_data_integrity.py",
+    "test": "npm run verify"
+  },
+  "keywords": ["islamic-library", "hadith", "zero-build", "pwa", "maktabah-maftoohah"],
+  "author": "Maktabah Maftoohah",
+  "license": "MIT"
+}

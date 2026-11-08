@@ -1,0 +1,207 @@
+/* ==========================================================================
+   Maktabah Maftoohah — Hadith Reader Stylesheet
+   Modern Islamic Heritage & Zero-Build Design System (DaisyUI & Emerald Theme)
+   ========================================================================== */
+
+:root {
+  /* Primary Heritage Palette (Emerald) */
+  --primary: #047857;
+  --primary-hover: #065f46;
+  --primary-dark: #064e3b;
+  --primary-light: #10b981;
+  --primary-subtle: rgba(4, 120, 87, 0.08);
+  --primary-glow: rgba(16, 185, 129, 0.25);
+
+  /* Accent Palette (Islamic Gold & Amber) */
+  --accent: #d97706;
+  --accent-hover: #b45309;
+  --accent-light: #f59e0b;
+  --accent-subtle: rgba(217, 119, 6, 0.12);
+
+  /* Scholarly Grading Tokens */
+  --badge-sahih-bg: #dcfce7;
+  --badge-sahih-text: #166534;
+  --badge-sahih-border: #bbf7d0;
+
+  /* Neutral Surface Palette (Light Theme) */
+  --bg-primary: #f8fafc;
+  --bg-gradient: radial-gradient(circle at 50% 0%, #f1f5f9 0%, #f8fafc 75%);
+  --bg-card: #ffffff;
+  --bg-card-hover: #fcfdfd;
+  --bg-elevated: #f1f5f9;
+  --text-primary: #0f172a;
+  --text-secondary: #334155;
+  --text-muted: #64748b;
+  --border: #e2e8f0;
+  --border-focus: #10b981;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.06), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+  --shadow-md: 0 10px 15px -3px rgb(0 0 0 / 0.07), 0 4px 6px -4px rgb(0 0 0 / 0.05);
+  --shadow-lg: 0 20px 25px -5px rgb(0 0 0 / 0.08), 0 8px 10px -6px rgb(0 0 0 / 0.06);
+
+  /* Typography */
+  --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-arabic: 'Amiri', 'Scheherazade New', 'Traditional Arabic', serif;
+
+  /* Radii & Transitions */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-full: 9999px;
+  --transition-fast: 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+[data-theme="dark"] {
+  --primary: #10b981;
+  --primary-hover: #34d399;
+  --primary-dark: #064e3b;
+  --primary-light: #6ee7b7;
+  --primary-subtle: rgba(16, 185, 129, 0.12);
+  --primary-glow: rgba(16, 185, 129, 0.35);
+
+  --accent: #f59e0b;
+  --accent-hover: #fbbf24;
+  --accent-light: #fcd34d;
+  --accent-subtle: rgba(245, 158, 11, 0.15);
+
+  --badge-sahih-bg: rgba(6, 78, 59, 0.85);
+  --badge-sahih-text: #86efac;
+  --badge-sahih-border: rgba(16, 185, 129, 0.3);
+
+  --bg-primary: #090d16;
+  --bg-gradient: radial-gradient(circle at 50% 0%, #111a2e 0%, #090d16 80%);
+  --bg-card: #111827;
+  --bg-card-hover: #172136;
+  --bg-elevated: #1e293b;
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+  --border: #1f2937;
+  --border-focus: #10b981;
+
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.3);
+  --shadow: 0 4px 12px 0 rgb(0 0 0 / 0.35);
+  --shadow-md: 0 10px 20px -3px rgb(0 0 0 / 0.45);
+  --shadow-lg: 0 20px 30px -5px rgb(0 0 0 / 0.55);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-primary);
+  background-image: var(--bg-gradient);
+  background-attachment: fixed;
+  color: var(--text-primary);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--border);
+  padding: 0.85rem 1.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: var(--shadow-sm);
+  transition: background-color var(--transition-normal);
+}
+
+[data-theme="dark"] .app-header {
+  background: rgba(17, 24, 39, 0.85);
+}
+
+.header-container {
+  max-width: 1120px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.brand-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.app-title {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--primary);
+  letter-spacing: -0.02em;
+}
+
+.app-title-ar {
+  font-family: var(--font-arabic);
+  font-size: 1.35rem;
+  color: var(--accent);
+  line-height: 1.1;
+  font-weight: 700;
+}
+
+.header-actions {
+  display: flex;
+  gap: 0.65rem;
+  align-items: center;
+}
+
+.btn-icon, .btn-pill {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 0.45rem 0.95rem;
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 600;
+  transition: all var(--transition-fast);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  box-shadow: var(--shadow-sm);
+  user-select: none;
+}
+
+.btn-icon:hover, .btn-pill:hover {
+  background: var(--bg-elevated);
+  border-color: var(--primary);
+  color: var(--primary);
+  transform: translateY(-1px);
+}
+
+.app-main {
+  max-width: 1120px;
+  margin: 1.5rem auto 3rem;
+  padding: 0 1.25rem;
+  flex: 1;
+  width: 100%;
+}
+
+.content-container {
+  margin-top: 1.5rem;
+}
+
+.app-footer {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-top: 3.5rem;
+}
